@@ -8,19 +8,20 @@ diciembre de 2026.
 ## De qué se trata
 
 Este módulo no tiene materia que memorizar: tiene un software que construir. En diez semanas, cada
-grupo desarrolla un sistema para una organización real —una pyme, una institución, una comunidad—
+equipo desarrolla un sistema para una organización real —una pyme, una institución, una comunidad—
 y recorre el ciclo completo: entender qué necesita, definir qué debe hacer el sistema, planificar,
 diseñar, construir, probar y dejarlo listo para que lo usen.
 
-Ese desarrollo se presenta en un **Resumen Ejecutivo**, el documento con que un proyecto se
-presenta ante quien decide si lo aprueba o lo financia. Se construye en seis partes a lo largo del
-módulo, y al final cada grupo lo presenta oralmente en el examen.
+Ese desarrollo queda registrado en una **propuesta de proyecto**, el documento con que un proyecto
+se presenta ante quien decide si lo aprueba o lo financia. Se construye por partes a lo largo del
+módulo, y al final cada equipo la presenta en el examen, en una exposición llamada **Resumen
+Ejecutivo**.
 
 ## Por dónde empezar
 
 1. **[Cronograma](cronograma/README.md)**: las fechas, las entregas y lo que se hace cada semana.
-2. **[El Resumen Ejecutivo](guias/resumen-ejecutivo.md)**: qué es y qué contiene cada una de sus
-   seis partes.
+2. **[La propuesta de proyecto](guias/propuesta-de-proyecto.md)**: qué contiene cada una de sus
+   partes y cómo es la presentación final.
 3. **[Evaluación del módulo](guias/evaluacion.md)**: cómo funcionan las entregas y el examen final.
 4. **[Vocabulario del módulo](guias/vocabulario.md)**: los términos que se usan, cada uno con un
    ejemplo.

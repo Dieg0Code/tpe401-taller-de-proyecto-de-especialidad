@@ -4,82 +4,87 @@
 
 - Período: 5 de octubre - 9 de diciembre de 2026
 - Horario: lunes, martes y miércoles de 08:30 a 10:50
-- Modalidad: presencial, taller práctico. Cada sesión se trabaja sobre el proyecto del grupo
+- Modalidad: presencial, taller práctico. Cada sesión se trabaja sobre el proyecto del equipo
 - Unidades: Unidad 1, Generación de un proyecto de especialidad innovador (36 horas) · Unidad 2,
   Proyecto de especialidad innovador: propuesta de valor (54 horas)
-- Organización: grupos de proyecto
-- Producto: un sistema de software para una organización real, desarrollado durante todo el módulo
+- Organización: equipos de proyecto de hasta cinco integrantes
+- Producto: un sistema de software que resuelve un desafío real de una organización, desarrollado
+  durante todo el módulo
 - Evaluación: tres entregas con nota, todas sobre el mismo proyecto, y un examen final en que el
-  grupo presenta su proyecto
+  equipo presenta su proyecto
 
 > No hay sesiones el lunes 12 de octubre ni el martes 8 de diciembre, que son feriados.
 
 ## Enfoque del Módulo
 
 Este módulo no tiene materia que memorizar: tiene un software que construir. En diez semanas, cada
-grupo recorre el ciclo completo de desarrollo de un sistema para una organización real —una pyme,
-una institución, una comunidad—: entender qué necesita, convertir esa necesidad en una lista
-precisa de lo que el sistema debe hacer, planificar el trabajo, diseñar, construir, probar y dejar
-el sistema listo para que lo usen.
+equipo elige un desafío real de una organización —una pyme, una institución, una comunidad— y
+recorre el ciclo completo de desarrollo de un sistema que lo resuelve: entender la necesidad con
+datos, definir qué hará el sistema y qué no, planificar el trabajo, diseñar, construir, probar y
+dejarlo listo para que lo usen.
 
-El hilo del módulo es el **Resumen Ejecutivo**: el documento con que se presenta un proyecto ante
-quien decide si lo aprueba o lo financia. Se construye en seis partes, y cada parte registra una
-etapa del desarrollo del mismo software.
+Todo ese recorrido queda registrado en la **propuesta de proyecto**: el documento con que se
+presenta un proyecto ante quien decide si lo aprueba o lo financia. Se construye por partes, cada
+parte documenta una etapa del desarrollo del mismo software, y al final se presenta en el
+**Resumen Ejecutivo**, que es el examen.
 
 El módulo se organiza con foco en:
 
-- partir de la persona que va a usar el sistema y no de la tecnología: entender su necesidad antes
-  de proponer una solución;
-- traducir esa necesidad a una lista verificable de lo que el sistema debe hacer;
+- partir de la persona que va a usar el sistema y no de la tecnología: entender su necesidad con
+  datos reales antes de proponer una solución;
+- delimitar con precisión qué resuelve el sistema y qué queda fuera;
 - escribir objetivos que el software pueda cumplir y que se puedan medir;
-- planificar el desarrollo con recursos, presupuesto, plazos y fuentes de financiamiento reales;
-- diseñar el sistema y construirlo por partes, probando cada una;
-- explicar en pocos minutos por qué el proyecto vale la pena;
-- y poner el sistema en manos de sus usuarios, con un plan para que lo adopten.
+- planificar el desarrollo con recursos, presupuesto, plazos y responsables;
+- explicar en 90 segundos por qué el proyecto vale la pena;
+- describir el valor que entrega el proyecto y la forma en que lo produce;
+- construir el sistema por partes, probando cada una;
+- y presentar el proyecto completo, con el sistema funcionando como evidencia.
 
 ## Calendario de entregas
 
-Las palabras en negrita se explican en el **Vocabulario del módulo**.
+Las palabras en negrita se explican en el **Vocabulario del módulo**, y cada parte de la propuesta,
+en la guía **La propuesta de proyecto**.
 
 | Fecha | Entrega | Qué debe contener | ¿Lleva nota? |
 | --- | --- | --- | --- |
-| Miércoles 14 de octubre | Entregable I, avance 1 | La Parte 1 del Resumen Ejecutivo: el **diagnóstico** de la organización elegida (cómo trabaja hoy y qué le falla, según lo que se observó y se preguntó), la **fundamentación** (por qué vale la pena resolverlo y a quién afecta) y la relación del proyecto con lo que forma la carrera | No, recibe retroalimentación |
-| Miércoles 21 de octubre | Entregable I, avance 2 | La Parte 2: el problema definido y acotado (qué se va a resolver y qué queda fuera), dos **objetivos generales**, cuatro **objetivos específicos** (dos por cada general), escritos como **objetivos SMART**, y el **impacto esperado** | No, recibe retroalimentación |
-| Martes 27 de octubre | Elevator Pitch | Una presentación oral de pocos minutos, hecha por el grupo, que explica el problema, la solución propuesta y por qué vale la pena | Forma parte de la nota del Entregable I |
-| Miércoles 28 de octubre | Entregable I completo | Las Partes 1 y 2 corregidas según la retroalimentación, y la Parte 3: los recursos del proyecto (personas, equipos, servicios), el **presupuesto**, la **fuente de financiamiento**, la organización del equipo y la **carta Gantt** como anexo | Sí: nota de la Unidad 1 |
-| Miércoles 11 de noviembre | Entregable II, avance 1 | El **Lienzo Canvas** del proyecto, con sus nueve bloques completos y coherentes con las Partes 1 a 3 | No, recibe retroalimentación |
-| Miércoles 25 de noviembre | Entregable II completo | El Canvas corregido, el **mapa de la cadena de valor** con su **proceso crítico**, y el avance del software: lo que ya funciona, con evidencia de que se probó | Sí: nota de la Unidad 2 |
-| Miércoles 2 de diciembre | Entregable III: portafolio final | Los Entregables I y II en su versión final, con todas las correcciones; el software del proyecto con su evidencia; y la Parte 6: el **plan de socialización**. Además, cada estudiante responde los tres cuestionarios obligatorios de la carrera | Sí: última nota parcial |
-| Miércoles 9 de diciembre | Examen final | La presentación oral del Resumen Ejecutivo completo, hecha por el grupo | Sí: nota del examen |
+| Miércoles 14 de octubre | Entregable I, avance 1 | Puntos 1 y 2 de la propuesta: el **diagnóstico** del desafío, con datos de **fuentes primarias** y **secundarias**, una **matriz FODA** y la **normativa** que lo afecta (500 a 700 palabras), y la **fundamentación** (200 a 400 palabras) | No, recibe retroalimentación |
+| Miércoles 21 de octubre | Entregable I, avance 2 | Puntos 3 a 6: la **delimitación** del desafío (150 a 300 palabras), un **objetivo general** y dos **objetivos específicos** escritos como **objetivos SMART**, el **impacto esperado** con al menos dos **indicadores** (200 a 500 palabras) y el **producto esperado**: el sistema que se va a construir (50 a 150 palabras) | No, recibe retroalimentación |
+| Martes 27 de octubre | **Elevator Pitch** | Presentación oral del proyecto, de 90 segundos como máximo, en la que exponen todos los integrantes | Forma parte de la nota del Entregable I |
+| Miércoles 28 de octubre | Entregable I completo | Los puntos 1 a 6 corregidos según la retroalimentación y los puntos 7 a 10: recursos y **presupuesto** con cantidades y precios, **carta Gantt** en la planilla oficial, organización del equipo con el **rol** de cada integrante, y el guion del pitch | Sí: nota de la Unidad 1 |
+| Miércoles 11 de noviembre | Entregable II, avance 1 | El **Lienzo Canvas** del proyecto, con sus nueve bloques, en el formato oficial | No, recibe retroalimentación |
+| Miércoles 25 de noviembre | Entregable II completo | El Canvas corregido, la **cadena de valor** en el formato oficial y el avance del sistema: evidencia de lo que ya funciona | Sí: nota de la Unidad 2 |
+| Miércoles 2 de diciembre | Entregable III: **portafolio** | La propuesta completa en su versión final, el sistema con su evidencia y las evidencias del trabajo (entrevistas, encuestas, cotizaciones, matriz FODA). Además, cada estudiante responde los tres cuestionarios obligatorios de la carrera | Sí: última nota parcial |
+| Miércoles 9 de diciembre | Examen final | La presentación del **Resumen Ejecutivo**: siete láminas y 15 minutos como máximo, seguidos de tres preguntas | Sí: nota del examen |
 
 ## Material de referencia
 
-- **El Resumen Ejecutivo**: qué es y qué contiene cada una de sus seis partes.
-- **Evaluación del módulo**: cómo funcionan los avances y la retroalimentación, el portafolio y el
-  examen final.
-- **Vocabulario del módulo**: los términos que aparecen en las entregas, cada uno con un ejemplo.
+- **La propuesta de proyecto**: cada una de sus partes, qué responde, su extensión y la etapa del
+  desarrollo que registra; el portafolio; y el formato del Resumen Ejecutivo.
+- **Evaluación del módulo**: cómo funcionan los avances, con qué pauta se revisa cada entrega y cómo
+  es el examen final.
+- **Vocabulario del módulo**: los términos del módulo, cada uno con un ejemplo.
 
 ## Planificación por semana
 
 Cada semana corresponde a una etapa del desarrollo del software. La última columna indica qué parte
-del Resumen Ejecutivo registra lo que se hizo en esa etapa.
+de la propuesta registra lo que se hizo en esa etapa.
 
 ### Unidad 1 · Generación de un proyecto de especialidad innovador
 
-| Semana | Sesiones | Etapa | Lo que se hace | Resumen Ejecutivo |
+| Semana | Sesiones | Etapa | Lo que se hace | Propuesta de proyecto |
 | --- | --- | --- | --- | --- |
-| 1 | 5, 6 y 7 de octubre | Descubrimiento | Presentación del módulo y diagnóstico inicial de los estudiantes. Formación de los grupos. Búsqueda de necesidades reales en organizaciones del entorno, lluvia de ideas y búsqueda de información sobre soluciones que ya existen | Parte 1: diagnóstico, fundamentación y relación con la carrera |
-| 2 | 13 y 14 de octubre | Análisis | Design Thinking con el usuario: entrevistarlo, observar cómo trabaja hoy y definir el problema. Dibujo del proceso actual, paso a paso | Parte 1 terminada · inicio de la Parte 2 |
-| 3 | 19, 20 y 21 de octubre | Requerimientos | Delimitación del problema. Requerimientos funcionales y no funcionales. Historias de usuario con criterios de aceptación. Objetivos SMART: dos generales y cuatro específicos. Impacto esperado | Parte 2: problema, objetivos e impacto |
-| 4 | 26, 27 y 28 de octubre | Planificación | Backlog ordenado por importancia y con el esfuerzo estimado de cada historia. Recursos (personas, equipos, servidores, licencias), presupuesto y fuentes de financiamiento públicas y privadas. Carta Gantt del desarrollo. Organización del equipo. Elevator Pitch | Parte 3: recursos, presupuesto, carta Gantt, organización y pitch |
+| 1 | 5, 6 y 7 de octubre | Elección del desafío | Presentación del módulo y diagnóstico inicial de los estudiantes. El **perfil de egreso** de la carrera: qué herramientas dejó cada asignatura. Formación de los equipos. Elección del **desafío** de cada equipo y justificación de cómo lo van a abordar con lo aprendido en la carrera | — |
+| 2 | 13 y 14 de octubre | Descubrimiento | Levantamiento de datos con la organización: entrevistas, encuestas y observación del trabajo, con **Design Thinking**. Búsqueda de fuentes secundarias. Matriz FODA. Normativa que aplica | Puntos 1 y 2: diagnóstico y fundamentación |
+| 3 | 19, 20 y 21 de octubre | Requerimientos | Delimitación: qué hará el sistema y qué no. Requerimientos funcionales y no funcionales, e historias de usuario con criterios de aceptación. Objetivos SMART. Impacto esperado e indicadores. Descripción del producto | Puntos 3 a 6 |
+| 4 | 26, 27 y 28 de octubre | Planificación | **Backlog** ordenado por importancia. Recursos y presupuesto con cotizaciones reales. Carta Gantt del desarrollo. Roles del equipo. Preparación y presentación del Elevator Pitch | Puntos 7 a 10 |
 
 ### Unidad 2 · Proyecto de especialidad innovador: propuesta de valor
 
-| Semana | Sesiones | Etapa | Lo que se hace | Resumen Ejecutivo |
+| Semana | Sesiones | Etapa | Lo que se hace | Propuesta de proyecto |
 | --- | --- | --- | --- | --- |
-| 5 | 2, 3 y 4 de noviembre | Diseño | Propuesta de valor del sistema y qué lo hace mejor que lo que la organización usa hoy. Definición del producto mínimo. Diseño de las partes del sistema y cómo se conectan, y un primer prototipo de sus pantallas | Parte 4: Lienzo Canvas |
-| 6 | 9, 10 y 11 de noviembre | Construcción, primera parte | Las primeras historias de usuario programadas y probadas. Lienzo Canvas completo | Parte 4 terminada |
-| 7 | 16, 17 y 18 de noviembre | Construcción, segunda parte | Desarrollo y pruebas. Cadena de valor del proyecto y su proceso crítico | Parte 5: cadena de valor y proceso crítico |
-| 8 | 23, 24 y 25 de noviembre | Construcción y revisión | El producto mínimo funcionando. Comparación entre lo planificado y lo logrado: recursos, organización y plazos | Parte 5 terminada |
-| 9 | 30 de noviembre, 1 y 2 de diciembre | Puesta en marcha | Instalación del sistema donde se va a usar. Gestión del cambio y plan de socialización con los usuarios. Organización del portafolio | Parte 6: socialización y portafolio |
-| 10 | 7 y 9 de diciembre | Presentación | Ajustes con la retroalimentación del portafolio. Examen final | Resumen Ejecutivo completo |
+| 5 | 2, 3 y 4 de noviembre | Diseño | **Propuesta de valor** y **ventaja competitiva** del sistema frente a lo que la organización usa hoy. Definición del **producto mínimo**. Diseño de las partes del sistema y de cómo se conectan, y un primer prototipo de sus pantallas | Lienzo Canvas |
+| 6 | 9, 10 y 11 de noviembre | Construcción, primera parte | Las primeras historias de usuario programadas y probadas. Lienzo Canvas completo | Lienzo Canvas |
+| 7 | 16, 17 y 18 de noviembre | Construcción, segunda parte | Desarrollo y pruebas. Cadena de valor del proyecto y su **proceso crítico** | Cadena de valor |
+| 8 | 23, 24 y 25 de noviembre | Construcción y revisión | El producto mínimo funcionando. Comparación entre lo planificado y lo logrado: recursos, roles y plazos | Cadena de valor y avance del sistema |
+| 9 | 30 de noviembre, 1 y 2 de diciembre | Puesta en marcha | Instalación del sistema donde se va a usar. **Plan de socialización** y **gestión del cambio** con sus usuarios: capacitación y manual. Organización del portafolio y de sus evidencias | Portafolio |
+| 10 | 7 y 9 de diciembre | Presentación | Preparación y ensayo del Resumen Ejecutivo con la retroalimentación del portafolio. Examen final | Resumen Ejecutivo |

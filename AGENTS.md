@@ -26,32 +26,45 @@ oficial en `docs/`:
   usuario, diagramas de arquitectura, código comentado, pruebas funcionales, informes de
   implementación y presentaciones.
 
-La planificación remite a instructivos, formatos y pautas del aula virtual (Ficha de Actividad
-N.º 1, instructivos del Entregable I, del Elevator Pitch, del Canvas y la cadena de valor, del
-Portafolio y del Resumen Ejecutivo). Al inicio del módulo esa aula todavía no está disponible, así
-que las guías y plantillas propias se derivan **solo de lo que dice la planificación**: cada parte
-del Resumen Ejecutivo con los elementos que ahí se enumeran (por ejemplo, 2 objetivos generales y 4
-específicos). Cuando lleguen los documentos oficiales, van a `docs/`, mandan sobre lo propio, y lo
-propio se ajusta a ellos.
+Los instrumentos oficiales del aula virtual también están en `docs/`: la Ficha de Actividad N.º 1
+(primera clase y elección del desafío), la plantilla «Entregable Parte I», el Anexo Carta Gantt, los
+instructivos (Elevator Pitch, Canvas y cadena de valor, Entregable II, Portafolio, Resumen
+Ejecutivo), los formatos (Canvas, cadena de valor, pitch, Resumen Ejecutivo) y las cinco pautas de
+revisión. **Son guías: el docente puede maniobrar sobre ellos**, pero el material propio no los
+contradice sin que él lo decida. Donde la planificación y los instrumentos difieren, mandan los
+instrumentos, porque con ellos se evalúa. Ejemplos ya resueltos:
 
-Es un ramo de proyecto, no de temario técnico, y el proyecto **es un software**. El módulo recorre el
-ciclo de desarrollo completo (descubrimiento, análisis, requerimientos, planificación, diseño,
-construcción, puesta en marcha) sobre un sistema para una organización real. El Resumen Ejecutivo
-no es un documento aparte del software: cada una de sus seis partes documenta una fase del mismo
-desarrollo (el diagnóstico es el levantamiento; los objetivos son lo que el software debe lograr;
-la carta Gantt son las iteraciones; el Canvas es el valor del producto; la cadena de valor es el
-proceso que lo construye y lo entrega; la socialización es la puesta en marcha). Nunca tratarlos
-como líneas paralelas. La fase de cada semana está en `cronograma/README.md`.
+- Los objetivos son **1 general y 2 específicos** (plantilla y pauta), no 2 y 4 como dice la
+  planificación.
+- El **Resumen Ejecutivo es solo la presentación del examen** (7 láminas, 15 minutos). El documento
+  que se construye todo el módulo es la **propuesta de proyecto**: el Entregable I (Word de 10
+  puntos en tres avances), el Entregable II (Canvas, cadena de valor de Porter y avance del producto)
+  y el portafolio que los reúne con el producto y sus evidencias.
+- La pauta del Entregable II solo califica el Canvas y la cadena de valor; el avance del producto se
+  sube pero no tiene indicador propio.
+
+Es un ramo de proyecto, no de temario técnico, y el proyecto **es un software** (decisión del
+docente; los instrumentos admiten prototipos como producto). El módulo recorre el ciclo de desarrollo
+completo sobre un sistema para una organización real, y la propuesta no es un documento aparte del
+software: cada parte documenta una etapa del mismo desarrollo (diagnóstico = descubrimiento,
+delimitación = alcance, objetivos = lo que el software debe lograr, producto esperado = el sistema,
+carta Gantt = las etapas del desarrollo, Canvas = el valor del producto, cadena de valor = cómo el
+equipo produce y entrega ese valor). Nunca tratarlos como líneas paralelas. La etapa de cada semana
+está en `cronograma/README.md`.
 
 Material de cara al estudiante fuera de las clases:
 
 - `cronograma/README.md`: el calendario (información general, enfoque, planificación por semana) y
   la tabla de entregas con su fecha y **qué debe contener cada una**. No lleva definiciones de
   conceptos: los términos en negrita remiten al vocabulario.
-- `guias/resumen-ejecutivo.md`, `guias/evaluacion.md` y `guias/vocabulario.md`: qué es el Resumen
-  Ejecutivo y sus seis partes, cómo funcionan los avances, el portafolio y el examen, y el
-  vocabulario del módulo. Todos usan
-  el mismo ejemplo conductor (una ferretería de Osorno con pedidos por WhatsApp en un cuaderno).
+- `guias/propuesta-de-proyecto.md`: cada parte de la propuesta (qué responde, extensión, etapa del
+  desarrollo), las nueve actividades de la cadena de valor, el portafolio y el formato del Resumen
+  Ejecutivo.
+- `guias/evaluacion.md`: avances, pautas e indicadores de cada entrega y el examen final.
+- `guias/vocabulario.md`: los términos, en orden de aparición.
+
+Todos usan el mismo ejemplo conductor: una ferretería de Osorno con pedidos por WhatsApp en un
+cuaderno.
 
 Cada documento cumple una sola función; no mezclar calendario, conceptos y evaluación en el mismo
 archivo.
