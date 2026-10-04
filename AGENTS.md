@@ -32,7 +32,11 @@ Los instrumentos oficiales del aula virtual están en `docs/aula-virtual/` (`act
 instructivos (Elevator Pitch, Canvas y cadena de valor, Entregable II, Portafolio, Resumen
 Ejecutivo), los formatos (Canvas, cadena de valor, pitch, Resumen Ejecutivo) y las cinco pautas de
 revisión. **Son guías: el docente puede maniobrar sobre ellos**, pero el material propio no los
-contradice sin que él lo decida. Donde la planificación y los instrumentos difieren, mandan los
+contradice sin que él lo decida. Y no reflejan necesariamente cómo funciona el módulo en la
+práctica: el material propio **no compromete al docente** con lo que esos documentos describen
+(listados de desafíos, vinculaciones con empresas, actividades) si él no lo ha confirmado. En
+particular, el desafío lo propone cada equipo; no hay un listado del docente, y la vinculación con
+SERCOTEC no está concretada. Donde la planificación y los instrumentos difieren, mandan los
 instrumentos, porque con ellos se evalúa. Ejemplos ya resueltos:
 
 - Los objetivos son **1 general y 2 específicos** (plantilla y pauta), no 2 y 4 como dice la
