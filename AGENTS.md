@@ -45,10 +45,12 @@ como líneas paralelas. La fase de cada semana está en `cronograma/README.md`.
 
 Material de cara al estudiante fuera de las clases:
 
-- `cronograma/README.md`: solo el calendario (información general, enfoque, fechas de entrega y
-  planificación por semana). No lleva explicaciones de conceptos ni detalle de evaluación.
+- `cronograma/README.md`: el calendario (información general, enfoque, planificación por semana) y
+  la tabla de entregas con su fecha y **qué debe contener cada una**. No lleva definiciones de
+  conceptos: los términos en negrita remiten al vocabulario.
 - `guias/resumen-ejecutivo.md`, `guias/evaluacion.md` y `guias/vocabulario.md`: qué es el Resumen
-  Ejecutivo y sus seis partes, cómo se evalúa cada entrega, y el vocabulario del módulo. Todos usan
+  Ejecutivo y sus seis partes, cómo funcionan los avances, el portafolio y el examen, y el
+  vocabulario del módulo. Todos usan
   el mismo ejemplo conductor (una ferretería de Osorno con pedidos por WhatsApp en un cuaderno).
 
 Cada documento cumple una sola función; no mezclar calendario, conceptos y evaluación en el mismo

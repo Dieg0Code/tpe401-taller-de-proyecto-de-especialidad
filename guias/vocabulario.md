@@ -16,6 +16,8 @@ organización y su propio problema.
 | Requerimiento no funcional | Una condición sobre cómo debe hacerlo: rapidez, seguridad, facilidad de uso | «Registrar un pedido toma menos de un minuto»; «solo el personal puede ver los datos de los clientes» |
 | Historia de usuario | Un requerimiento escrito desde la persona que lo necesita: «Como [quién], quiero [qué] para [para qué]» | «Como vendedor, quiero ver los pedidos del día para preparar los que se retiran hoy» |
 | Criterio de aceptación | La condición concreta que permite decir que una historia de usuario está terminada | «Al abrir la pantalla aparecen solo los pedidos con entrega hoy, ordenados por hora» |
+| Objetivo general | Lo que el proyecto quiere lograr en grande, en una sola frase | «Que la ferretería no pierda pedidos» |
+| Objetivo específico | Un paso concreto que, junto con los demás, permite cumplir un objetivo general | «Registrar cada pedido con su fecha de entrega en el momento en que llega» |
 | Objetivo SMART | Un objetivo escrito para que se pueda comprobar si se cumplió. SMART son las iniciales en inglés de sus cinco condiciones: específico, medible, alcanzable, realista y con plazo | No «mejorar los pedidos», sino «que ningún pedido registrado se pierda durante el primer mes de uso» |
 | Impacto esperado | El cambio que el proyecto produce en la organización si cumple sus objetivos | Menos ventas perdidas y menos llamadas de clientes preguntando por su pedido |
 | Backlog | La lista de todas las historias de usuario del proyecto, ordenada de la más importante a la menos | Primero registrar pedidos, después avisar al cliente, al final los reportes |

@@ -39,21 +39,23 @@ El módulo se organiza con foco en:
 
 ## Calendario de entregas
 
-| Fecha | Entrega | ¿Lleva nota? |
-| --- | --- | --- |
-| Miércoles 14 de octubre | Entregable I, avance 1 | No, recibe retroalimentación |
-| Miércoles 21 de octubre | Entregable I, avance 2 | No, recibe retroalimentación |
-| Martes 27 de octubre | Elevator Pitch | Forma parte de la nota del Entregable I |
-| Miércoles 28 de octubre | Entregable I completo | Sí: nota de la Unidad 1 |
-| Miércoles 11 de noviembre | Entregable II, avance 1 | No, recibe retroalimentación |
-| Miércoles 25 de noviembre | Entregable II completo | Sí: nota de la Unidad 2 |
-| Miércoles 2 de diciembre | Entregable III: portafolio final | Sí: última nota parcial |
-| Miércoles 9 de diciembre | Examen final | Sí: nota del examen |
+Las palabras en negrita se explican en el **Vocabulario del módulo**.
+
+| Fecha | Entrega | Qué debe contener | ¿Lleva nota? |
+| --- | --- | --- | --- |
+| Miércoles 14 de octubre | Entregable I, avance 1 | La Parte 1 del Resumen Ejecutivo: el **diagnóstico** de la organización elegida (cómo trabaja hoy y qué le falla, según lo que se observó y se preguntó), la **fundamentación** (por qué vale la pena resolverlo y a quién afecta) y la relación del proyecto con lo que forma la carrera | No, recibe retroalimentación |
+| Miércoles 21 de octubre | Entregable I, avance 2 | La Parte 2: el problema definido y acotado (qué se va a resolver y qué queda fuera), dos **objetivos generales**, cuatro **objetivos específicos** (dos por cada general), escritos como **objetivos SMART**, y el **impacto esperado** | No, recibe retroalimentación |
+| Martes 27 de octubre | Elevator Pitch | Una presentación oral de pocos minutos, hecha por el grupo, que explica el problema, la solución propuesta y por qué vale la pena | Forma parte de la nota del Entregable I |
+| Miércoles 28 de octubre | Entregable I completo | Las Partes 1 y 2 corregidas según la retroalimentación, y la Parte 3: los recursos del proyecto (personas, equipos, servicios), el **presupuesto**, la **fuente de financiamiento**, la organización del equipo y la **carta Gantt** como anexo | Sí: nota de la Unidad 1 |
+| Miércoles 11 de noviembre | Entregable II, avance 1 | El **Lienzo Canvas** del proyecto, con sus nueve bloques completos y coherentes con las Partes 1 a 3 | No, recibe retroalimentación |
+| Miércoles 25 de noviembre | Entregable II completo | El Canvas corregido, el **mapa de la cadena de valor** con su **proceso crítico**, y el avance del software: lo que ya funciona, con evidencia de que se probó | Sí: nota de la Unidad 2 |
+| Miércoles 2 de diciembre | Entregable III: portafolio final | Los Entregables I y II en su versión final, con todas las correcciones; el software del proyecto con su evidencia; y la Parte 6: el **plan de socialización**. Además, cada estudiante responde los tres cuestionarios obligatorios de la carrera | Sí: última nota parcial |
+| Miércoles 9 de diciembre | Examen final | La presentación oral del Resumen Ejecutivo completo, hecha por el grupo | Sí: nota del examen |
 
 ## Material de referencia
 
 - **El Resumen Ejecutivo**: qué es y qué contiene cada una de sus seis partes.
-- **Evaluación del módulo**: cómo funcionan las entregas, qué contiene cada una, el portafolio y el
+- **Evaluación del módulo**: cómo funcionan los avances y la retroalimentación, el portafolio y el
   examen final.
 - **Vocabulario del módulo**: los términos que aparecen en las entregas, cada uno con un ejemplo.
 
