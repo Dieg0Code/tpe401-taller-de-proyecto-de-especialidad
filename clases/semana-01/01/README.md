@@ -420,11 +420,10 @@ tiene que permitir mostrarlas: un desafío que se resuelve con una planilla no d
 egreso; uno que necesita levantar requerimientos, diseñar una base de datos y construir una
 aplicación, sí.
 
-El desafío lo propone cada equipo. Puede salir de una organización que algún integrante conozca de
-cerca —el negocio de un familiar, un lugar de trabajo, una institución del barrio— o de un problema
-que el equipo haya visto y quiera resolver. Lo importante es que la organización exista, que el
-equipo pueda conversar con ella para levantar datos, y que el desafío permita desplegar las
-herramientas de la carrera.
+Los desafíos salen de casos reales de organizaciones de la zona, que entrega el docente. Cada equipo
+elige uno. Al elegir, conviene mirar tres cosas: que el equipo pueda conversar con la organización
+para levantar datos, que el desafío pida software de verdad, y que permita desplegar las
+herramientas que el equipo trae de la carrera.
 
 Es la base de todo lo que sigue: el diagnóstico de la semana 2 parte del desafío elegido.
 

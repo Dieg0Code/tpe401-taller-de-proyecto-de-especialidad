@@ -1462,13 +1462,13 @@ function slideHerramientas() {
 }
 
 // ---------------------------------------------------------------------------
-// 29 · El desafio: lo propone cada equipo
+// 29 · El desafio: se elige entre casos reales
 
 function slideDesafio() {
   const { slide } = createSlide("light");
-  addHeader(slide, "Bloque 3 · El primer paso", "El desafío lo propone cada equipo");
+  addHeader(slide, "Bloque 3 · El primer paso", "El desafío sale de un caso real");
 
-  addText(slide, "El desafío es la necesidad real que va a resolver el equipo. Puede salir del negocio de un familiar, de un lugar de trabajo, de una institución del barrio o de un problema que el equipo haya visto.", {
+  addText(slide, "El desafío es la necesidad real que va a resolver el equipo. Los desafíos salen de casos de organizaciones reales de la zona, que entrega el docente, y cada equipo elige uno.", {
     x: M,
     y: 1.84,
     w: CW,
@@ -1479,9 +1479,9 @@ function slideDesafio() {
   });
 
   const condiciones = [
-    ["La organización existe", "No es un caso inventado."],
-    ["Se puede conversar con ella", "Para levantar datos: entrevistas, encuestas, observación."],
-    ["Deja ver las herramientas de la carrera", "Requerimientos, base de datos, una aplicación, pruebas."],
+    ["Se puede conversar con la organización", "Para levantar datos: entrevistas, encuestas, observación."],
+    ["Pide software de verdad", "No se resuelve con una planilla."],
+    ["Deja ver las herramientas del equipo", "Requerimientos, base de datos, una aplicación, pruebas."],
   ];
   condiciones.forEach(([t, d], i) => {
     const y = 2.8 + i * 0.9;

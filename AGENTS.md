@@ -34,9 +34,11 @@ Ejecutivo), los formatos (Canvas, cadena de valor, pitch, Resumen Ejecutivo) y l
 revisión. **Son guías: el docente puede maniobrar sobre ellos**, pero el material propio no los
 contradice sin que él lo decida. Y no reflejan necesariamente cómo funciona el módulo en la
 práctica: el material propio **no compromete al docente** con lo que esos documentos describen
-(listados de desafíos, vinculaciones con empresas, actividades) si él no lo ha confirmado. En
-particular, el desafío lo propone cada equipo; no hay un listado del docente, y la vinculación con
-SERCOTEC no está concretada. Donde la planificación y los instrumentos difieren, mandan los
+(listados de desafíos, vinculaciones con empresas, actividades) si él no lo ha confirmado. Los
+desafíos salen de **casos de organizaciones reales** que el jefe de carrera le entrega al docente
+(anunciado el 04/10/2026 para el lunes 5, en relación con SERCOTEC); cada equipo elige uno. Mientras
+el docente no tenga esos casos en la mano, el material de los estudiantes dice «casos reales de
+organizaciones de la zona que entrega el docente» y no nombra a SERCOTEC. Donde la planificación y los instrumentos difieren, mandan los
 instrumentos, porque con ellos se evalúa. Ejemplos ya resueltos:
 
 - Los objetivos son **1 general y 2 específicos** (plantilla y pauta), no 2 y 4 como dice la
@@ -65,6 +67,8 @@ Material de cara al estudiante fuera de las clases:
 - `guias/propuesta-de-proyecto.md`: cada parte de la propuesta (qué responde, extensión, etapa del
   desarrollo), las nueve actividades de la cadena de valor, el portafolio y el formato del Resumen
   Ejecutivo.
+- `guias/mapa-del-modulo.md`: lo que se espera en cada entrega de todo el módulo (desafío,
+  Entregables I, II y III, examen), con extensiones y requisitos de los formatos y las pautas.
 - `guias/evaluacion.md`: avances, pautas e indicadores de cada entrega y el examen final.
 - `guias/vocabulario.md`: los términos, en orden de aparición.
 

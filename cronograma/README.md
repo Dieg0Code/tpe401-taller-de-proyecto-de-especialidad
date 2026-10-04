@@ -60,6 +60,8 @@ en la guía **La propuesta de proyecto**.
 
 - **La propuesta de proyecto**: cada una de sus partes, qué responde, su extensión y la etapa del
   desarrollo que registra; el portafolio; y el formato del Resumen Ejecutivo.
+- **Mapa del módulo**: todo lo que se espera en cada entrega, del desafío al examen final, con sus
+  extensiones y requisitos.
 - **Evaluación del módulo**: cómo funcionan los avances, con qué pauta se revisa cada entrega y cómo
   es el examen final.
 - **Vocabulario del módulo**: los términos del módulo, cada uno con un ejemplo.

@@ -22,8 +22,10 @@ Ejecutivo**.
 1. **[Cronograma](cronograma/README.md)**: las fechas, las entregas y lo que se hace cada semana.
 2. **[La propuesta de proyecto](guias/propuesta-de-proyecto.md)**: qué contiene cada una de sus
    partes y cómo es la presentación final.
-3. **[Evaluación del módulo](guias/evaluacion.md)**: cómo funcionan las entregas y el examen final.
-4. **[Vocabulario del módulo](guias/vocabulario.md)**: los términos que se usan, cada uno con un
+3. **[Mapa del módulo](guias/mapa-del-modulo.md)**: lo que se espera en cada entrega, del desafío
+   al examen final.
+4. **[Evaluación del módulo](guias/evaluacion.md)**: cómo funcionan las entregas y el examen final.
+5. **[Vocabulario del módulo](guias/vocabulario.md)**: los términos que se usan, cada uno con un
    ejemplo.
 
 El material de cada sesión se publica en [`clases/`](clases/), organizado por semana.
