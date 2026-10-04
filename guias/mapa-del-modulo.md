@@ -20,16 +20,17 @@ se revisa cada entrega. Los términos en negrita se explican en el **Vocabulario
 
 ## 1. El equipo y el desafío · semana 1
 
-Antes de escribir una línea de la propuesta, cada equipo necesita:
+Antes de escribir una línea de la propuesta, cada proyecto necesita:
 
 - **Sus integrantes**: hasta cinco.
-- **Su desafío**, elegido entre los casos de organizaciones reales de la zona que entrega el docente.
+- **Su desafío**: una necesidad real de una organización, que existe fuera de la sala. No sirve un
+  caso inventado.
 - **Contacto con esa organización**: alguien que acepte conversar con el equipo, porque sin eso no
   hay forma de reunir los datos que pide el diagnóstico.
 
-Al elegir el caso conviene mirar dos cosas más: que pida **software de verdad** (levantar
-requerimientos, diseñar una base de datos, construir una aplicación) y que permita desplegar las
-herramientas que el equipo trae de la carrera, porque eso es lo que muestra el **perfil de egreso**.
+Un buen desafío, además, pide **software de verdad** (levantar requerimientos, diseñar una base de
+datos, construir una aplicación) y permite desplegar las herramientas de la carrera, porque eso es lo
+que muestra el **perfil de egreso**.
 
 Es el paso más urgente del módulo. El Avance 1 exige datos obtenidos directamente de la
 organización, y para tenerlos el 14 de octubre hay que haber conversado con ella durante la semana

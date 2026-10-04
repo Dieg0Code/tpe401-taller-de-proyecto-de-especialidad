@@ -343,7 +343,7 @@ function slideObjetivo() {
     lineSpacingMultiple: 1.08,
   });
   rule(slide, M + 0.36, 4.12, 1.4, C.red, 2.4);
-  addText(slide, "Desde la próxima, cada sesión es un taller sobre el proyecto de tu equipo.", {
+  addText(slide, "Desde la próxima, cada sesión es un taller sobre el proyecto.", {
     x: M + 0.36,
     y: 4.36,
     w: 3.6,
@@ -479,7 +479,7 @@ function slideDistinto() {
 
   const filas = [
     ["Lo que se aprende", "Un tema: un lenguaje, una base de datos, una técnica", "Nada nuevo: se usa lo que ya sabes"],
-    ["De qué depende la nota", "De cuánto aprendiste del tema", "De lo que tu equipo construye y documenta"],
+    ["De qué depende la nota", "De cuánto aprendiste del tema", "De lo que se construye y se documenta"],
     ["Quién define qué programar", "El enunciado del ejercicio", "Nadie: averiguarlo es parte del trabajo"],
     ["Para quién es", "Para el curso", "Para una organización real"],
     ["Cómo es la sesión", "Exposición del docente", "Taller sobre el proyecto, con el docente como asesor"],
@@ -540,7 +540,7 @@ function slideCaso() {
     addText(slide, d, { x: xf + 0.7, y: y + 0.42, w: wf - 0.9, h: 0.3, fontSize: 11.5, color: C.slate });
   });
 
-  addText(slide, "Este caso aparece en todo el módulo para mostrar cada etapa con algo concreto. Es solo una ilustración: cada equipo trabaja con su propio desafío.", {
+  addText(slide, "Este caso aparece en todo el módulo para mostrar cada etapa con algo concreto. Es solo una ilustración: cada proyecto trabaja con su propio desafío.", {
     x: M,
     y: 5.06,
     w: CW,
@@ -1364,7 +1364,7 @@ function slideBloqueTres() {
   addKicker(slide, M, 1.5, "Bloque 3 de 3 · 45 minutos", C.gold, 5);
   addText(slide, "Con qué herramientas llegas", { x: M, y: 1.98, w: 11.4, h: 1.1, fontFace: TYPOGRAPHY.display, fontSize: 46, bold: true, color: C.white });
   rule(slide, M, 3.3, 4.2, C.red, 2.4);
-  addText(slide, "El perfil de egreso de tu carrera, lo que te dejó cada asignatura, y para qué sirve saberlo: elegir el desafío de tu equipo.", {
+  addText(slide, "El perfil de egreso de tu carrera, lo que te dejó cada asignatura, y para qué sirve saberlo: el desafío del proyecto.", {
     x: M,
     y: 3.58,
     w: 10.4,
@@ -1462,13 +1462,13 @@ function slideHerramientas() {
 }
 
 // ---------------------------------------------------------------------------
-// 29 · El desafio: se elige entre casos reales
+// 29 · Que hace bueno a un desafio, venga de donde venga
 
 function slideDesafio() {
   const { slide } = createSlide("light");
-  addHeader(slide, "Bloque 3 · El primer paso", "El desafío sale de un caso real");
+  addHeader(slide, "Bloque 3 · El primer paso", "Qué hace bueno a un desafío");
 
-  addText(slide, "El desafío es la necesidad real que va a resolver el equipo. Los desafíos salen de casos de organizaciones reales de la zona, que entrega el docente, y cada equipo elige uno.", {
+  addText(slide, "El desafío es la necesidad real que va a resolver el proyecto. Venga de donde venga, un buen desafío cumple tres condiciones.", {
     x: M,
     y: 1.84,
     w: CW,
@@ -1479,9 +1479,9 @@ function slideDesafio() {
   });
 
   const condiciones = [
-    ["Se puede conversar con la organización", "Para levantar datos: entrevistas, encuestas, observación."],
-    ["Pide software de verdad", "No se resuelve con una planilla."],
-    ["Deja ver las herramientas del equipo", "Requerimientos, base de datos, una aplicación, pruebas."],
+    ["Es una necesidad real de una organización", "Existe fuera de la sala y alguien la vive todos los días."],
+    ["Se pueden reunir datos sobre ella", "Conversando con quienes la viven: entrevistas, encuestas, observación."],
+    ["Deja ver las herramientas de la carrera", "Requerimientos, base de datos, una aplicación, pruebas."],
   ];
   condiciones.forEach(([t, d], i) => {
     const y = 2.8 + i * 0.9;
@@ -1500,7 +1500,7 @@ function slideDesafio() {
   addText(slide, "Sí deja ver el perfil", { x: xr + 0.26, y: 4.3, w: wr - 0.5, h: 0.24, fontSize: 10, bold: true, color: C.success, charSpacing: 1 });
   addText(slide, "Uno que pide levantar requerimientos, diseñar una base de datos y construir una aplicación.", { x: xr + 0.26, y: 4.6, w: wr - 0.5, h: 0.74, fontSize: 13.5, bold: true, color: C.ink, lineSpacingMultiple: 1.06 });
 
-  addTakeaway(slide, "Del desafío elegido parte el diagnóstico de la semana 2.", { y: 6.0 });
+  addTakeaway(slide, "El desafío es el punto de partida del diagnóstico, la primera parte de la propuesta.", { y: 6.0 });
   validateSlide(slide, pptx);
 }
 
@@ -1525,7 +1525,7 @@ function slideCierre() {
     addText(slide, d, { x: x + 0.28, y: 3.9, w: w - 0.56, h: 0.8, fontSize: 12.5, color: C.softBlue, lineSpacingMultiple: 1.1 });
   });
   tiraEtapas(slide, M, 5.2, CW, 0.42, { fontSize: 10.5, outline: C.softBlue });
-  addText(slide, "Lo que sigue: formar los equipos y elegir el desafío.", { x: M, y: 5.86, w: CW, h: 0.4, fontSize: 16, bold: true, color: C.gold, align: "center" });
+  addText(slide, "Lo que sigue: definir el desafío de cada proyecto.", { x: M, y: 5.86, w: CW, h: 0.4, fontSize: 16, bold: true, color: C.gold, align: "center" });
   validateSlide(slide, pptx);
 }
 

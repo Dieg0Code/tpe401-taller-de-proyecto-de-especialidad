@@ -29,7 +29,7 @@ La sesión cierra con la pregunta que ordena el resto del módulo: con qué cuen
 hacerlo. Después de tres semestres de carrera, el estudiante identificará qué herramientas le dejó
 cada asignatura y cómo se conectan con lo que la carrera se compromete a que sepa hacer al
 titularse, lo que se conoce como **perfil de egreso**. Esas herramientas son el punto de partida
-para elegir el desafío que va a resolver su equipo.
+para definir el desafío que va a resolver su proyecto.
 
 ## Objetivos Específicos
 
@@ -45,7 +45,7 @@ para elegir el desafío que va a resolver su equipo.
 4. **Explicar cómo se evalúa el módulo**: con qué pauta se revisa cada entrega, qué niveles tiene, y
    de qué dos partes se compone la nota del examen final.
 5. **Identificar las herramientas que dejó cada asignatura de la carrera** y relacionarlas con las
-   competencias del perfil de egreso, como base para elegir el desafío del equipo.
+   competencias del perfil de egreso, como base para definir el desafío del proyecto.
 
 ## Competencias Transversales
 
@@ -72,8 +72,8 @@ para elegir el desafío que va a resolver su equipo.
 | 08:45 - 09:15 | Bloque 1 | Qué se construye. El ciclo de desarrollo de un sistema, de la necesidad a la puesta en marcha, y la propuesta de proyecto que lo registra: cada una de sus partes y la etapa del desarrollo que corresponde a cada una, con el ejemplo de una ferretería que pierde pedidos anotados en un cuaderno. |
 | 09:15 - 09:40 | Bloque 2 | El recorrido de diez semanas. El calendario de entregas, la diferencia entre un avance que recibe comentarios y una entrega con nota, el Elevator Pitch, el portafolio y el examen final; con qué pauta se revisa cada entrega y de qué dos partes se compone la nota del examen. |
 | 09:40 - 09:50 | Pausa | Descanso. |
-| 09:50 - 10:35 | Bloque 3 | Con qué herramientas llega cada estudiante. El perfil de egreso de la carrera, las herramientas concretas que dejó cada asignatura cursada, y para qué sirve reconocerlas: elegir el desafío del equipo. |
-| 10:35 - 10:50 | Cierre | Consolidar qué se espera del módulo y dejar planteado el paso siguiente: la conformación de los equipos y la elección del desafío que va a resolver cada uno, a partir de las herramientas reconocidas en el Bloque 3. |
+| 09:50 - 10:35 | Bloque 3 | Con qué herramientas llega cada estudiante. El perfil de egreso de la carrera, las herramientas concretas que dejó cada asignatura cursada, y para qué sirve reconocerlas: definir el desafío del proyecto. |
+| 10:35 - 10:50 | Cierre | Consolidar qué se espera del módulo y dejar planteado el paso siguiente: la definición del desafío de cada proyecto, a partir de las herramientas reconocidas en el Bloque 3. |
 
 > La sesión no requiere preparación previa. Se trabaja con el cronograma y las guías del módulo
 > —la propuesta de proyecto, la evaluación y el vocabulario— y con el perfil de egreso de la carrera.
@@ -420,12 +420,11 @@ tiene que permitir mostrarlas: un desafío que se resuelve con una planilla no d
 egreso; uno que necesita levantar requerimientos, diseñar una base de datos y construir una
 aplicación, sí.
 
-Los desafíos salen de casos reales de organizaciones de la zona, que entrega el docente. Cada equipo
-elige uno. Al elegir, conviene mirar tres cosas: que el equipo pueda conversar con la organización
-para levantar datos, que el desafío pida software de verdad, y que permita desplegar las
-herramientas que el equipo trae de la carrera.
+Venga de donde venga, un buen desafío cumple tres condiciones: es una necesidad real de una
+organización, que existe fuera de la sala; se pueden reunir datos sobre ella conversando con quienes
+la viven; y permite desplegar las herramientas de la carrera.
 
-Es la base de todo lo que sigue: el diagnóstico de la semana 2 parte del desafío elegido.
+Es la base de todo lo que sigue: el diagnóstico, la primera parte de la propuesta, parte del desafío.
 
 ---
 
@@ -440,8 +439,8 @@ El módulo se resume en tres ideas:
 - **Cada entrega se apoya en la anterior**, y el examen final presenta el proyecto completo ante
   quien podría decidir hacerlo.
 
-El paso siguiente es formar los equipos y elegir el desafío, con las herramientas que cada uno
-reconoció en el Bloque 3.
+El paso siguiente es definir el desafío de cada proyecto, con las herramientas que cada uno reconoció
+en el Bloque 3.
 
 ---
 
