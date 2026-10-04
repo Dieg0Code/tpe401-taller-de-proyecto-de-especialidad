@@ -26,7 +26,8 @@ oficial en `docs/`:
   usuario, diagramas de arquitectura, código comentado, pruebas funcionales, informes de
   implementación y presentaciones.
 
-Los instrumentos oficiales del aula virtual también están en `docs/`: la Ficha de Actividad N.º 1
+Los instrumentos oficiales del aula virtual están en `docs/aula-virtual/` (`actividades/`,
+`formatos/`, `instructivos/`, `pautas/`): la Ficha de Actividad N.º 1
 (primera clase y elección del desafío), la plantilla «Entregable Parte I», el Anexo Carta Gantt, los
 instructivos (Elevator Pitch, Canvas y cadena de valor, Entregable II, Portafolio, Resumen
 Ejecutivo), los formatos (Canvas, cadena de valor, pitch, Resumen Ejecutivo) y las cinco pautas de
