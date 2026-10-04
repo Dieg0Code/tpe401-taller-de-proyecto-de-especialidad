@@ -37,3 +37,7 @@ Thumbs.db
 
 # Contexto interno de planificación (no se distribuye)
 **/interno_*.md
+
+# Videos institucionales del aula (se usan en clase, no se distribuyen)
+**/*.mov
+**/*.mp4
