@@ -1,0 +1,39 @@
+# Dependencias / entornos
+**/node_modules/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+
+# Artefactos de build
+**/bin/
+**/obj/
+**/dist/
+*.bak
+
+# Previews de render de PPT (regenerables)
+**/ppt/rendered*/
+**/ppt/montage*.png
+
+# Entregables comprimidos (no versionar)
+/entregables/
+*.rar
+
+# Ruido de SO/editor
+.DS_Store
+Thumbs.db
+~$*
+
+# Archivos temporales de revisión y render
+/.tmp/
+/tmp/
+
+# Material nominal de corrección: nombre, repositorio y nota de cada estudiante.
+# No se distribuye, igual que las rúbricas. Las plantillas sí se versionan.
+/evaluaciones/
+/output/
+
+# Rúbricas de corrección (instrumento interno, no se distribuye)
+**/rubrica_eval_*.md
+
+# Contexto interno de planificación (no se distribuye)
+**/interno_*.md
