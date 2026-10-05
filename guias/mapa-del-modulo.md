@@ -23,18 +23,19 @@ se revisa cada entrega. Los términos en negrita se explican en el **Vocabulario
 Antes de escribir una línea de la propuesta, cada proyecto necesita:
 
 - **Sus integrantes**: hasta cinco.
-- **Su desafío**: una necesidad real de una organización, que existe fuera de la sala. No sirve un
-  caso inventado.
-- **Contacto con esa organización**: alguien que acepte conversar con el equipo, porque sin eso no
-  hay forma de reunir los datos que pide el diagnóstico.
+- **Su desafío**: uno de los casos reales de organizaciones de la zona que entrega el docente.
+- **Una base para comenzar**: la información del caso y los supuestos que el equipo necesita usar
+  mientras faltan datos. Cada supuesto debe quedar identificado como pendiente de validación.
 
 Un buen desafío, además, pide **software de verdad** (levantar requerimientos, diseñar una base de
 datos, construir una aplicación) y permite desplegar las herramientas de la carrera, porque eso es lo
 que muestra el **perfil de egreso**.
 
-Es el paso más urgente del módulo. El Avance 1 exige datos obtenidos directamente de la
-organización, y para tenerlos el 14 de octubre hay que haber conversado con ella durante la semana
-anterior. El lunes 12 de octubre es feriado.
+**No se exige contacto con la organización para comenzar ni para entregar los avances.** Las
+gestiones de vinculación pueden tomar tiempo. El equipo continúa el diagnóstico, el diseño y el
+desarrollo con la información disponible, fuentes secundarias citadas y supuestos explícitos.
+Si más adelante el docente habilita el contacto, el equipo conversa con la organización, contrasta
+los supuestos y actualiza la propuesta y el software en los aspectos que corresponda.
 
 ---
 
@@ -57,11 +58,20 @@ se responden de forma completa y correcta:
 Además, el diagnóstico debe:
 
 - basarse en **datos cualitativos y cuantitativos**: lo que la gente dice y lo que se puede contar;
-- obtenerlos de **fuentes primarias** (entrevistas, encuestas, grupos focales, observación) y
-  **secundarias** (libros, artículos, estudios, estadísticas);
+- usar la información del caso y **fuentes secundarias** (libros, artículos, estudios,
+  estadísticas), citando su procedencia; incorporar **fuentes primarias** (entrevistas, encuestas,
+  grupos focales, observación) cuando sea posible acceder a ellas;
+- identificar como **supuestos** los datos que aún no se conocen, explicar por qué se usan y qué
+  se necesita preguntar u observar para validarlos; también señalar qué partes del FODA son
+  provisionales;
 - incluir una **matriz FODA** de la organización;
 - **citar las fuentes** consultadas;
 - mostrar el uso de herramientas de **IA generativa** en su elaboración.
+
+Por ejemplo: «Para dimensionar la primera versión, se supone que llegan 40 pedidos al día. Esta
+cifra no está confirmada; se contrastará con el registro de pedidos si se obtiene acceso». Una
+entrevista preparada es un instrumento pendiente de aplicación; no se presenta como entrevista
+realizada. Tampoco se presentan respuestas o cifras generadas por IA como datos de la organización.
 
 **Punto 2 · Fundamentación** (200 a 400 palabras). Responde **¿por qué es importante hacer este
 proyecto?**, con datos que muestren que vale la pena y que es posible abordarlo, desde el punto de
@@ -178,6 +188,13 @@ La pauta del portafolio revisa cinco indicadores:
    de valor.
 5. **Formalidades**: plazos, formatos e instrucciones, y ortografía y redacción de un documento
    académico.
+
+Las entrevistas y encuestas son ejemplos de evidencia, no un requisito de contacto obligatorio.
+Si no se ha habilitado acceso a la organización, se presentan las evidencias del trabajo realmente
+realizado: fuentes consultadas, supuestos justificados, mapas de proceso, presupuestos, informes
+de avance y pruebas del sistema. Se distinguen los procesos supuestos de los observados y las
+pruebas del equipo de la validación con usuarios de la organización. Los pendientes de validación
+se declaran; no impiden entregar el portafolio.
 
 Junto con el portafolio, cada estudiante responde **tres cuestionarios obligatorios** de la carrera:
 autoevaluación de competencias digitales, autoevaluación de habilidades sociales y personales, y

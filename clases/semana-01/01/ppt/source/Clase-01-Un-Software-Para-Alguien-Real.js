@@ -728,12 +728,12 @@ function slideCicloFerreteria() {
   addHeader(slide, "Bloque 1 · El ciclo en el ejemplo", "La ferretería, etapa por etapa");
 
   const ejemplos = [
-    "Entrevistar al dueño, mirar cómo se toma un pedido y contar cuántos se pierden por semana",
+    "Analizar el caso y fuentes, explicitar supuestos; entrevistar si se habilita el contacto",
     "Registrar y seguir pedidos, sí. Controlar la bodega, no",
     "Un servidor, un computador para el mesón, ocho semanas y un responsable por tarea",
     "Que el cliente sepa cuándo está listo su pedido sin tener que llamar",
     "Programar el registro de pedidos y probarlo",
-    "Instalarlo en el mesón y enseñarles a los vendedores a usarlo",
+    "Instalar y probar en un entorno de demostración; en el mesón si se habilita el acceso",
   ];
   // Linea de tiempo vertical en dos columnas: etapas 1-3 a la izquierda, 4-6 a la derecha.
   const colW = (CW - 0.4) / 2;
@@ -911,7 +911,7 @@ function slidePartes(tramo, titulo, partes) {
 
 function slidePartesUno() {
   slidePartes("1 de 2", "Entender el problema y fijar el alcance", [
-    ["Diagnóstico", "Cómo funciona hoy la organización y qué le falla, con datos", "Descubrimiento", "40 pedidos al día; 3 perdidos por semana"],
+    ["Diagnóstico", "Cómo funciona hoy; datos y supuestos diferenciados", "Descubrimiento", "40 pedidos al día: supuesto por validar"],
     ["Fundamentación", "Por qué vale la pena resolverlo", "Descubrimiento", "Cada pedido perdido es una venta perdida"],
     ["Definición y delimitación", "Qué parte del problema se resuelve y qué queda fuera", "Alcance", "Pedidos sí; bodega no"],
     ["Objetivos", "Qué tiene que lograr el sistema, de forma comprobable", "Alcance", "Registrar el 100 % de los pedidos del primer mes"],
@@ -1185,7 +1185,7 @@ function slideEntregableDosPortafolio() {
   const carpetas = [
     ["El sistema", "y su evidencia: código, video funcionando, capturas, manual"],
     ["La propuesta completa", "Entregables I y II en su versión final, corregidos"],
-    ["Las evidencias", "Entrevistas, encuestas, cotizaciones, matriz FODA"],
+    ["Las evidencias", "Fuentes, supuestos, cotizaciones, FODA y pruebas; entrevistas si se realizaron"],
   ];
   carpetas.forEach(([t, d], i) => {
     const y = 2.62 + i * 0.86;
@@ -1480,7 +1480,7 @@ function slideDesafio() {
 
   const condiciones = [
     ["Es una necesidad real de una organización", "Existe fuera de la sala y alguien la vive todos los días."],
-    ["Se pueden reunir datos sobre ella", "Conversando con quienes la viven: entrevistas, encuestas, observación."],
+    ["Se puede analizar con la información disponible", "Caso, fuentes citadas y supuestos explícitos pendientes de validar."],
     ["Deja ver las herramientas de la carrera", "Requerimientos, base de datos, una aplicación, pruebas."],
   ];
   condiciones.forEach(([t, d], i) => {
@@ -1500,7 +1500,28 @@ function slideDesafio() {
   addText(slide, "Sí deja ver el perfil", { x: xr + 0.26, y: 4.3, w: wr - 0.5, h: 0.24, fontSize: 10, bold: true, color: C.success, charSpacing: 1 });
   addText(slide, "Uno que pide levantar requerimientos, diseñar una base de datos y construir una aplicación.", { x: xr + 0.26, y: 4.6, w: wr - 0.5, h: 0.74, fontSize: 13.5, bold: true, color: C.ink, lineSpacingMultiple: 1.06 });
 
-  addTakeaway(slide, "El desafío es el punto de partida del diagnóstico, la primera parte de la propuesta.", { y: 6.0 });
+  addTakeaway(slide, "El contacto inmediato no es condición para elegir el desafío ni para comenzar.", { y: 6.0 });
+  validateSlide(slide, pptx);
+}
+
+function slideSupuestosYContacto() {
+  const { slide } = createSlide("light");
+  addHeader(slide, "El trabajo del equipo", "Avanzar mientras se gestiona el contacto");
+  addText(slide, "Se puede comenzar y entregar sin contacto con la organización.", {
+    x: M, y: 1.76, w: CW, h: 0.65, fontSize: 24, bold: true, color: C.navy,
+  });
+  const pasos = [
+    ["Ahora", "Analizar el caso real que entrega el docente y las fuentes disponibles. Identificar y justificar los supuestos que permiten diseñar y desarrollar."],
+    ["Si se habilita el contacto", "Conversar con la organización y contrastar los supuestos. Registrar qué se confirma, qué cambia y qué sigue pendiente."],
+    ["Actualizar y entregar", "Reflejar los cambios en la propuesta y el software. Si no hay contacto, entregar lo desarrollado con evidencias y pendientes declarados."],
+  ];
+  pasos.forEach(([titulo, detalle], i) => {
+    const y = 2.7 + i * 1.0;
+    rect(slide, M, y, 0.07, 0.8, ETAPAS[i].color);
+    addText(slide, titulo, { x: M + 0.22, y, w: 3.1, h: 0.7, fontSize: 18, bold: true, color: C.navy, valign: "mid" });
+    addText(slide, detalle, { x: M + 3.6, y, w: CW - 3.6, h: 0.82, fontSize: 17, color: C.ink, valign: "mid" });
+  });
+  addTakeaway(slide, "Supuesto: afirmación provisional por comprobar. Las fechas de entrega se mantienen.", { y: 6.16 });
   validateSlide(slide, pptx);
 }
 
@@ -1560,6 +1581,7 @@ slideBloqueTres();
 slidePerfilPreguntas();
 slideHerramientas();
 slideDesafio();
+slideSupuestosYContacto();
 slideCierre();
 
 pptx

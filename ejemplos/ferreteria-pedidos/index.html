@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#163b49" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23163b49'/%3E%3Cpath d='M14 21 49 15 45 43 18 48Z' fill='%23f28b4b'/%3E%3C/svg%3E"
+    />
+    <title>Mesón · Pedidos de ferretería</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Contexto del sistema">
+        <div class="brand">
+          <span class="brand-mark" aria-hidden="true">▰</span>
+          <div><strong>Mesón</strong><small>Ferretería · Osorno</small></div>
+        </div>
+        <div class="sidebar-content">
+          <p class="side-label">El problema</p>
+          <h2>Del mensaje al pedido que se puede seguir.</h2>
+          <p>
+            Los pedidos llegan por WhatsApp y se anotan en un cuaderno. Si una
+            anotación se pierde, el equipo no sabe qué preparar ni qué responder
+            al cliente.
+          </p>
+          <div class="flow" aria-label="Flujo que resuelve la aplicación">
+            <div>
+              <span>1</span>
+              <p><strong>Registrar</strong><br />Cliente y productos</p>
+            </div>
+            <div>
+              <span>2</span>
+              <p><strong>Preparar</strong><br />Estado visible</p>
+            </div>
+            <div>
+              <span>3</span>
+              <p><strong>Entregar</strong><br />Pedido cerrado</p>
+            </div>
+          </div>
+        </div>
+        <div class="sidebar-foot">
+          Caso ilustrativo del taller TPE401. Los datos son ficticios y se
+          guardan solo en este navegador.
+        </div>
+      </aside>
+
+      <main class="workspace">
+        <header class="topbar">
+          <span>Sistema de pedidos</span
+          ><span class="demo-pill">Demo interactiva</span>
+        </header>
+        <div class="content">
+          <div class="page-heading">
+            <div>
+              <p class="section-kicker">Vista del mesón</p>
+              <h1>Pedidos</h1>
+              <p>
+                Registra lo que llega y mantén visible qué falta por preparar.
+              </p>
+            </div>
+            <button class="primary-button" id="new-order" type="button">
+              + Nuevo pedido
+            </button>
+          </div>
+
+          <section class="summary" aria-label="Resumen de pedidos">
+            <div class="summary-item">
+              <span>Por preparar</span><strong id="count-pending">0</strong>
+            </div>
+            <div class="summary-item">
+              <span>En preparación</span><strong id="count-progress">0</strong>
+            </div>
+            <div class="summary-item">
+              <span>Listos para retiro</span><strong id="count-ready">0</strong>
+            </div>
+            <div class="summary-item">
+              <span>Entregados</span><strong id="count-delivered">0</strong>
+            </div>
+          </section>
+
+          <section class="orders-section" aria-labelledby="orders-title">
+            <div class="section-heading">
+              <div>
+                <h2 id="orders-title">Bandeja de pedidos</h2>
+                <p>
+                  Corrige un pedido pendiente o cambia su estado para avanzar.
+                </p>
+              </div>
+              <button type="button" class="text-button" id="reset-demo">
+                Restablecer datos de ejemplo
+              </button>
+            </div>
+            <div class="toolbar">
+              <label class="search"
+                ><span class="visually-hidden"
+                  >Buscar por cliente, teléfono o producto</span
+                ><input
+                  id="search"
+                  type="search"
+                  placeholder="Buscar cliente, teléfono o producto"
+                  autocomplete="off" /></label
+              ><label class="filter"
+                ><span class="visually-hidden">Filtrar por estado</span
+                ><select id="status-filter">
+                  <option value="all">Todos los estados</option>
+                  <option value="pending">Por preparar</option>
+                  <option value="progress">En preparación</option>
+                  <option value="ready">Listos para retiro</option>
+                  <option value="delivered">Entregados</option>
+                </select></label
+              >
+            </div>
+            <div class="orders-list" id="orders-list" aria-live="polite"></div>
+          </section>
+
+          <section class="scope-note" aria-label="Alcance del ejemplo">
+            <div class="scope-icon" aria-hidden="true">i</div>
+            <p>
+              <strong>Alcance de esta demo:</strong> registra y sigue pedidos.
+              No controla inventario ni envía mensajes por WhatsApp. Un pedido
+              marcado como listo indica que el mesón puede avisar al cliente por
+              su canal habitual.
+            </p>
+          </section>
+        </div>
+      </main>
+    </div>
+
+    <dialog id="order-dialog" aria-labelledby="dialog-title">
+      <form id="order-form">
+        <div class="dialog-head">
+          <div>
+            <p class="section-kicker" id="dialog-kicker">Registro</p>
+            <h2 id="dialog-title">Nuevo pedido</h2>
+          </div>
+          <button
+            class="icon-button"
+            type="button"
+            id="close-dialog"
+            aria-label="Cerrar formulario"
+          >
+            ×
+          </button>
+        </div>
+        <p class="dialog-intro" id="dialog-intro">
+          Copia los datos del mensaje para que el pedido no dependa del
+          cuaderno.
+        </p>
+        <label
+          >Nombre del cliente<input
+            name="customer"
+            required
+            maxlength="80"
+            autocomplete="name"
+            placeholder="Ej.: Camila Rojas" /></label
+        ><label
+          >Teléfono de contacto<input
+            name="phone"
+            required
+            type="tel"
+            maxlength="25"
+            inputmode="tel"
+            placeholder="Ej.: +56 9 1234 5678" /></label
+        ><label
+          >Productos solicitados<textarea
+            name="items"
+            required
+            maxlength="500"
+            rows="4"
+            placeholder="Ej.: 2 cajas de tornillos 3/4, 1 tarro de pintura blanca"
+          ></textarea>
+        </label>
+        <div class="dialog-actions">
+          <button class="secondary-button" id="cancel-dialog" type="button">
+            Cancelar</button
+          ><button class="primary-button" id="save-order" type="submit">
+            Guardar pedido
+          </button>
+        </div>
+      </form>
+    </dialog>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>

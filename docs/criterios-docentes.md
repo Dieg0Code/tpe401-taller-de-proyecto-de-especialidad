@@ -95,6 +95,14 @@ instructivos, que en este ramo son el material principal.
 
 - `cronograma/README.md` también es **de cara al estudiante**: no lleva contexto interno (horas
   adeudadas, recuperaciones, motivos de ausencia). Cada sesión se nombra por su contenido.
+- **TPE401: contacto con la organización** (decisión del docente, 05/10/2026). No es condición
+  para comenzar, avanzar ni entregar, ni un requisito adicional para obtener la nota. Los equipos
+  trabajan con el caso real entregado por el docente, fuentes citadas y supuestos explícitos y
+  justificados, señalando lo pendiente de validación. Si posteriormente se habilita el contacto,
+  contrastan los supuestos y actualizan la propuesta y el software. Si no se concreta, entregan
+  con las evidencias del trabajo realizado y los pendientes declarados. No inventar entrevistas,
+  respuestas ni confirmaciones. Tampoco exigir instalación o capacitación en la organización
+  mientras no haya acceso; se prepara y demuestra el sistema en un entorno de demostración.
 
 ## 7. Evaluaciones y corrección
 

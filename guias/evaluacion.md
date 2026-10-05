@@ -17,6 +17,12 @@ en el **Cronograma**, en la tabla «Calendario de entregas».
   en PDF salvo que se indique otro formato. Cada archivo puede pesar hasta 30 MB; si pesa más, se
   comprime en ZIP.
 
+**El contacto con la organización no es requisito para entregar ni un requisito adicional para
+obtener la nota.** Mientras no se habilite, se revisa el trabajo con la información del caso,
+fuentes citadas y supuestos explícitos y justificados. Se distingue lo conocido de lo pendiente
+de validar. Si posteriormente se habilita el contacto, se incorporan los hallazgos y se actualizan
+la propuesta y el software. Se mantienen las fechas, los formatos y los indicadores de las pautas.
+
 ## Cómo se revisa cada entrega
 
 Cada entrega se revisa con una **pauta**: una tabla que lista los aspectos que se evalúan,
@@ -71,6 +77,12 @@ Se evalúan cinco indicadores:
 4. Tiene evidencias del uso de herramientas de innovación: matriz FODA, Lienzo Canvas, Elevator
    Pitch y cadena de valor.
 5. Cumple los plazos, los formatos y las normas de ortografía y redacción de un documento académico.
+
+Las entrevistas y encuestas se incluyen si se realizaron. Si no hubo acceso a la organización,
+la evidencia corresponde al trabajo efectivamente realizado: fuentes consultadas, supuestos y
+sus revisiones, mapas de proceso, presupuestos, informes y pruebas del sistema. Una entrevista
+pendiente o una prueba entre integrantes del equipo no se presenta como validación con la
+organización.
 
 Junto con el portafolio, cada estudiante responde tres cuestionarios obligatorios de la carrera:
 una autoevaluación de competencias digitales, una autoevaluación de habilidades sociales y

@@ -26,6 +26,16 @@
 - `guias/mapa-del-modulo.md`, `guias/propuesta-de-proyecto.md`, `guias/evaluacion.md`, `guias/vocabulario.md`
 - `clases/semana-01/01/README.md`
 
+## Ajuste para la próxima generación
+
+El prompt histórico y la imagen existente son anteriores a la decisión del 05/10/2026. Para
+regenerar, cambiar «Entrevistas, datos y FODA» por «Caso, fuentes, supuestos y FODA» e incorporar:
+«Se puede avanzar y entregar sin contacto con la organización. Se trabaja con el caso y supuestos
+explícitos; si se habilita el contacto, se validan y se actualizan la propuesta y el software».
+La puesta en marcha se prepara en un entorno de demostración; se realiza en la organización si
+se habilita el acceso. No presentar entrevistas, capacitación ni aceptación de usuarios como
+obligaciones que dependan de conseguir contacto.
+
 ## Prompt usado
 
 Use case: infographic-diagram. Create ONE master infographic in Spanish for technical programming students, a premium editorial educational wall poster in a tall portrait layout. It must be informative, aesthetically elegant and genuinely explanatory, with a coherent visual system rather than repetitive cards. It summarizes a ten-week practical course in which teams build software for a real local organization. Use warm ivory paper, deep navy #102A43, restrained red #D62027, subtle pale blue and graphite; precise line drawings, graceful connectors, varied scale, excellent typography and purposeful density. No logos or watermarks. Render all text accurately with correct accents; no gibberish or extra copy.
@@ -68,4 +78,3 @@ A tiny annotation by Oct 28: "Pitch: 27 OCT · 90 segundos"
 Footer in bold: "La propuesta cuenta el desarrollo; el software demuestra que ocurrió."
 
 Editorial constraints: This is a real classroom infographic, not an advertisement. Keep every text item legible on a phone; organize the six dates into an elegant compact system rather than tiny type. Preserve exact dates, week numbering, and the distinction between advances and graded submissions. Do not mention SERCOTEC, promise company partnerships, invent a tech stack, or show a separate written Resumen Ejecutivo document.
-

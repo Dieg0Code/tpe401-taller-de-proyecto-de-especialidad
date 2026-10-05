@@ -18,13 +18,31 @@ La propuesta se construye por partes durante todo el módulo y se entrega comple
 
 Los términos en negrita se explican en el **Vocabulario del módulo**.
 
+### Cómo avanzar mientras faltan datos
+
+El equipo comienza con el caso real que entrega el docente, las fuentes disponibles y **supuestos**
+explícitos. El contacto con la organización no es condición para avanzar ni para entregar. Un
+supuesto es una afirmación provisional que permite tomar una decisión mientras falta información.
+Debe indicar qué se supone, en qué se basa y cómo se podría comprobar.
+
+Por ejemplo: «Se supone que una persona registra los pedidos en el mesón, según la descripción del
+caso; falta confirmar quién lo hace y si necesita distintos permisos». Con esa base se pueden
+definir historias de usuario, diseñar y probar el registro de pedidos. Los datos de prueba deben
+estar identificados como ficticios.
+
+Si posteriormente el docente habilita el contacto, el equipo contrasta los supuestos con la
+organización y registra lo confirmado, lo corregido y lo que sigue pendiente. Los cambios se
+reflejan en las partes afectadas de la propuesta y del software: diagnóstico, alcance, objetivos,
+historias de usuario, Canvas o pruebas, según corresponda. Si el contacto no se concreta, se entrega
+lo desarrollado con sus evidencias y pendientes de validación declarados.
+
 ## 1. El Entregable I: el documento de la propuesta
 
 Es un documento Word, con un formato oficial, que tiene diez puntos. Se completa en tres avances.
 
 | Avance | Punto | Qué responde | Extensión | Etapa del desarrollo |
 | --- | --- | --- | --- | --- |
-| 1 | 1. **Diagnóstico** | Cuatro preguntas: ¿cuál es el desafío y cómo se puede resolver con lo aprendido en la carrera?, ¿cómo es el entorno o el mercado donde está?, ¿cómo son las personas que se van a beneficiar?, ¿hay alguna **normativa** que afecte al proyecto? Se responde con datos de **fuentes primarias** y **secundarias**, una **matriz FODA**, las fuentes citadas y el apoyo de herramientas de **IA generativa** | 500 a 700 palabras | Descubrimiento: entender la necesidad antes de proponer nada |
+| 1 | 1. **Diagnóstico** | Cuatro preguntas: ¿cuál es el desafío y cómo se puede resolver con lo aprendido en la carrera?, ¿cómo es el entorno o el mercado donde está?, ¿cómo son las personas que se van a beneficiar?, ¿hay alguna **normativa** que afecte al proyecto? Se responde con información del caso, **fuentes secundarias** citadas, **supuestos** identificados y **fuentes primarias** cuando estén disponibles, una **matriz FODA** y el apoyo de herramientas de **IA generativa** | 500 a 700 palabras | Descubrimiento: entender la necesidad y señalar qué falta validar |
 | 1 | 2. **Fundamentación** | ¿Por qué es importante hacer este proyecto? | 200 a 400 palabras | Descubrimiento |
 | 2 | 3. Definición y **delimitación** del desafío | ¿Cuál es el desafío y desde y hasta dónde se va a abordar? Qué parte se resuelve, en qué grado y qué queda fuera | 150 a 300 palabras | Alcance: qué hará el sistema y qué no |
 | 2 | 4. Objetivos | Un **objetivo general** y dos **objetivos específicos**, escritos como **objetivos SMART** | — | Lo que el software tiene que lograr |

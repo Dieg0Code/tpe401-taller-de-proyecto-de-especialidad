@@ -136,6 +136,18 @@ no.
 Eso cambia la pregunta con que se empieza. En un ejercicio de clase, el enunciado ya dice qué hay
 que programar. Aquí nadie lo dice: hay que averiguarlo, y averiguarlo bien es parte del trabajo.
 
+**Se puede comenzar y entregar sin tener contacto con la organización.** Cada equipo trabaja con
+uno de los casos reales de organizaciones de la zona que entrega el docente. Mientras se gestionan
+los contactos, usa la información del caso, fuentes citadas y **supuestos**: afirmaciones
+provisionales que se identifican, se justifican y se dejan pendientes de validación.
+
+Por ejemplo, se puede suponer que una persona registra los pedidos para diseñar una primera versión;
+hay que escribir que falta confirmar quién lo hace. Si posteriormente el docente habilita el
+contacto, el equipo conversa con la organización, contrasta sus supuestos y actualiza la propuesta
+y el software. Si el contacto no se concreta, continúa y entrega con las evidencias disponibles
+y los pendientes declarados. No se presentan supuestos como hechos ni entrevistas pendientes como
+realizadas.
+
 ### 1.2 El ciclo de desarrollo de un sistema
 
 Construir un sistema para la ferretería no empieza programando. Pasa por una secuencia de etapas, y
@@ -143,12 +155,12 @@ cada una responde una pregunta distinta:
 
 | Etapa | Pregunta que responde | En la ferretería |
 | --- | --- | --- |
-| Descubrimiento | ¿Qué está pasando, a quién le afecta y cuánto? | Entrevistar al dueño, observar cómo se toma un pedido y contar cuántos se pierden por semana |
+| Descubrimiento | ¿Qué está pasando, a quién le afecta y cuánto? | Analizar el caso y fuentes disponibles, explicitar supuestos y preparar preguntas; entrevistar u observar si se habilita el contacto |
 | Alcance | ¿Qué va a hacer el sistema y qué no? | Registrar y seguir pedidos, sí; controlar la bodega, no |
 | Planificación | ¿Con qué recursos, en cuánto tiempo, cuánto cuesta y quién hace qué? | Un servidor, un computador para el mesón, ocho semanas de trabajo y un responsable por tarea |
 | Diseño | ¿Qué valor entrega el sistema y cómo se organiza por dentro? | Que el cliente sepa cuándo está listo su pedido sin tener que llamar |
 | Construcción | ¿Funciona lo que se diseñó? | Programar el registro de pedidos y probarlo |
-| Puesta en marcha | ¿Lo usan las personas para las que se hizo? | Instalarlo en el mesón y enseñarles a los vendedores a usarlo |
+| Puesta en marcha | ¿Está listo para usarse y qué falta validar con sus usuarios? | Instalarlo y probarlo en un entorno de demostración; hacerlo en el mesón y capacitar a los vendedores si se habilita el acceso |
 
 Esta secuencia no es una invención del módulo. Es lo que dice el **perfil de egreso** de la carrera
 —lo que la carrera se compromete a que su estudiante sepa hacer al titularse— con estas palabras:
@@ -175,7 +187,7 @@ La propuesta tiene un formato oficial. Sus partes, en orden, y la etapa que docu
 
 | Parte de la propuesta | Qué responde | Etapa | En la ferretería |
 | --- | --- | --- | --- |
-| Diagnóstico | Cómo funciona hoy la organización y qué le falla, con datos | Descubrimiento | «Llegan unos 40 pedidos al día y cerca de 3 por semana se pierden» |
+| Diagnóstico | Cómo funciona hoy la organización y qué le falla; datos y supuestos diferenciados | Descubrimiento | «El caso indica pedidos en un cuaderno; se suponen 40 al día, cifra pendiente de validar» |
 | Fundamentación | Por qué vale la pena resolverlo | Descubrimiento | Cada pedido perdido es una venta perdida y un cliente molesto |
 | Definición y delimitación | Qué parte del problema se resuelve y qué queda fuera | Alcance | Registro y seguimiento de pedidos; la bodega queda fuera |
 | Objetivos | Qué tiene que lograr el sistema, de forma que se pueda comprobar | Alcance | Registrar el 100 % de los pedidos del primer mes |
@@ -420,9 +432,11 @@ tiene que permitir mostrarlas: un desafío que se resuelve con una planilla no d
 egreso; uno que necesita levantar requerimientos, diseñar una base de datos y construir una
 aplicación, sí.
 
-Venga de donde venga, un buen desafío cumple tres condiciones: es una necesidad real de una
-organización, que existe fuera de la sala; se pueden reunir datos sobre ella conversando con quienes
-la viven; y permite desplegar las herramientas de la carrera.
+Cada equipo elige uno de los casos reales de organizaciones de la zona que entrega el docente. Un
+buen desafío cumple tres condiciones: responde a una necesidad de una organización que existe fuera
+de la sala; permite analizar información del caso y fuentes disponibles, explicitando lo que falta
+validar; y permite desplegar las herramientas de la carrera. Tener contacto inmediato con la
+organización no es una condición para elegirlo ni para comenzar.
 
 Es la base de todo lo que sigue: el diagnóstico, la primera parte de la propuesta, parte del desafío.
 

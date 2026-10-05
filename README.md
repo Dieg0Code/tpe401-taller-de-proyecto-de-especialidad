@@ -12,6 +12,11 @@ equipo desarrolla un sistema para una organización real —una pyme, una instit
 y recorre el ciclo completo: entender qué necesita, definir qué debe hacer el sistema, planificar,
 diseñar, construir, probar y dejarlo listo para que lo usen.
 
+Los casos reales de organizaciones de la zona los entrega el docente. **Se puede avanzar y entregar
+sin tener contacto con la organización**, usando la información del caso, fuentes citadas y
+supuestos explícitos y justificados. Si posteriormente se habilita el contacto, el equipo contrasta
+los supuestos y actualiza la propuesta y el software.
+
 Ese desarrollo queda registrado en una **propuesta de proyecto**, el documento con que un proyecto
 se presenta ante quien decide si lo aprueba o lo financia. Se construye por partes a lo largo del
 módulo, y al final cada equipo la presenta en el examen, en una exposición llamada **Resumen
@@ -29,6 +34,10 @@ Ejecutivo**.
    ejemplo.
 
 El material de cada sesión se publica en [`clases/`](clases/), organizado por semana.
+
+## Ejemplo interactivo
+
+La [demo de pedidos de la ferretería](ejemplos/ferreteria-pedidos/README.md) permite recorrer un sistema pequeño: registrar un pedido, seguir su estado y relacionar cada función con la necesidad que resuelve. Se abre directamente en el navegador, sin instalar dependencias.
 
 ## Sobre este repositorio
 

@@ -26,6 +26,7 @@ Thumbs.db
 # Archivos temporales de revisión y render
 /.tmp/
 /tmp/
+/.playwright-cli/
 
 # Material nominal de corrección: nombre, repositorio y nota de cada estudiante.
 # No se distribuye, igual que las rúbricas. Las plantillas sí se versionan.
