@@ -299,11 +299,6 @@ El **portafolio** es la entrega final de todo el proyecto. Reúne tres cosas:
 - **las evidencias del trabajo**: lo que respalda lo que dice la propuesta, como entrevistas,
   encuestas, cotizaciones, mapas de proceso y la matriz FODA.
 
-Junto con el portafolio, cada estudiante responde tres cuestionarios obligatorios de la carrera:
-una autoevaluación de competencias digitales, una autoevaluación de habilidades sociales y
-personales, y una encuesta de madurez en innovación. Responderlos es parte de la nota del
-portafolio.
-
 El portafolio se entrega una semana antes del examen para que reciba retroalimentación y el equipo
 alcance a usarla en la preparación de su presentación.
 

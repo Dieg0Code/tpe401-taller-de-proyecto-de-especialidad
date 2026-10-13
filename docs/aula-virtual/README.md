@@ -19,6 +19,23 @@ explica cómo hacerlo; la pauta permite comprobar qué se revisará. Los PDF de 
 orientaciones, no plantillas para escribir encima. Entrega en el formato de archivo indicado
 para cada pieza en el aula virtual.
 
+### Cómo descargar y seguir trabajando
+
+Abre el enlace del formato que corresponde a tu entrega y descarga el archivo. Si el navegador
+solo muestra una vista previa, utiliza la opción de descarga del archivo. Guarda una copia con
+el nombre de tu equipo y conserva su extensión: Word `.docx`, Excel `.xlsx` o PowerPoint `.pptx`.
+Cambiar la extensión del nombre no convierte el archivo a PDF.
+
+En el celular puedes consultar instrucciones y revisar archivos. Para completar tablas o revisar
+la Gantt y el diseño de las láminas, conviene usar un computador. Abre el formato en una aplicación
+que permita editarlo y conserva esa copia; cuando corresponda entregar PDF, usa la opción de
+exportar o guardar como PDF y revisa el resultado antes de subirlo.
+
+El [mapa del módulo](../../guias/mapa-del-modulo.md#qué-se-edita-y-qué-se-sube) indica qué se entrega
+por cada pieza y contiene una lista de comprobación junto a cada avance. La propuesta se continúa
+en el mismo Word durante el módulo: guarda una copia del archivo entregado y sigue trabajando en
+el editable del equipo.
+
 | Entrega o pieza | Formato que se completa | Instrucciones | Pauta de revisión |
 | --- | --- | --- | --- |
 | Equipo y desafío | No tiene plantilla de propuesta todavía | [Ficha de Actividad N.º 1 (PDF)](actividades/Ficha%20de%20Actividad%20de%20Aprendizaje%20N%C2%BA1%20TPE401.pdf) · [Elección del desafío (PDF)](actividades/actividad-trabajo-autonomo-elegir-desafio.pdf) | — |

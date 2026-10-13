@@ -92,11 +92,6 @@ sus revisiones, mapas de proceso, presupuestos, informes y pruebas del sistema. 
 pendiente o una prueba entre integrantes del equipo no se presenta como validación con la
 organización.
 
-Junto con el portafolio, cada estudiante responde tres cuestionarios obligatorios de la carrera:
-una autoevaluación de competencias digitales, una autoevaluación de habilidades sociales y
-personales, y una encuesta de madurez en innovación. Responderlos es parte de la nota del
-portafolio.
-
 El portafolio se entrega una semana antes del examen para que reciba retroalimentación y el equipo
 alcance a usarla en la preparación de su presentación.
 

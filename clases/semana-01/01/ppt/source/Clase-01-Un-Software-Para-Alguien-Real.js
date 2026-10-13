@@ -1193,7 +1193,7 @@ function slideEntregableDosPortafolio() {
     addText(slide, t, { x: xr + 0.52, y, w: wr - 0.8, h: 0.32, fontSize: 15, bold: true, color: C.white });
     addText(slide, d, { x: xr + 0.52, y: y + 0.34, w: wr - 0.8, h: 0.4, fontSize: 12, color: C.softBlue });
   });
-  addText(slide, "Más tres cuestionarios obligatorios de la carrera, que cada estudiante responde junto con el portafolio.", {
+  addText(slide, "Cada integrante sube la misma versión final del portafolio completo a su aula virtual.", {
     x: xr + 0.3,
     y: 5.22,
     w: wr - 0.6,

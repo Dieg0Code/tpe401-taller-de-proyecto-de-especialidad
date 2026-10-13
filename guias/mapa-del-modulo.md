@@ -54,6 +54,23 @@ los supuestos y actualiza la propuesta y el software en los aspectos que corresp
 Un documento de diez puntos, en el formato oficial «Entregable Parte I», que se completa en tres
 avances. Su versión completa es la **nota de la Unidad 1**.
 
+### Cómo continuar el mismo documento
+
+Descarga «Entregable Parte I» una vez y guarda una copia de trabajo del equipo. En cada avance
+continúa ese mismo Word: conserva lo escrito, incorpora la retroalimentación y agrega las partes
+que corresponden. La fecha de cada avance indica qué puntos se revisan en ese corte.
+
+| Momento | Qué se agrega al documento de trabajo | Qué se conserva y revisa |
+| --- | --- | --- |
+| Avance 1 | Puntos 1 y 2 | La identificación del proyecto y del equipo |
+| Avance 2 | Puntos 3 a 6 | Puntos 1 y 2, incorporando la retroalimentación disponible |
+| Entregable I completo | Puntos 7 a 10 | Puntos 1 a 6 corregidos; se entrega el documento completo |
+| Portafolio | Versión final del Entregable I | Todos los puntos con las mejoras recibidas durante el módulo |
+
+Guarda una copia del archivo entregado en cada corte y continúa trabajando en el editable.
+El PDF sirve para entregar; el Word permite seguir corrigiendo. El Canvas también se conserva:
+su versión del avance se mejora para el Entregable II completo y luego para el portafolio.
+
 ### Avance 1 · miércoles 14 de octubre
 
 - **Archivo para trabajar:** [Entregable Parte I (Word): puntos 1 y 2](../docs/aula-virtual/formatos/Entregable%20Parte%20I.docx).
@@ -89,6 +106,15 @@ realizada. Tampoco se presentan respuestas o cifras generadas por IA como datos 
 proyecto?**, con datos que muestren que vale la pena y que es posible abordarlo, desde el punto de
 vista de quien lo va a usar.
 
+
+#### Antes de entregar el avance 1
+
+- [ ] El diagnóstico responde las cuatro preguntas y tiene entre 500 y 700 palabras.
+- [ ] Incluye el FODA, las fuentes citadas y cómo se utilizó IA generativa.
+- [ ] Distingue información conocida y supuestos justificados; identifica lo que falta validar.
+- [ ] La fundamentación explica por qué vale la pena abordar el desafío y tiene entre 200 y 400 palabras.
+- [ ] El PDF se abre y muestra correctamente los puntos 1 y 2 del formato oficial.
+
 ### Avance 2 · miércoles 21 de octubre
 
 - **Archivo para trabajar:** [Entregable Parte I (Word): puntos 3 a 6](../docs/aula-virtual/formatos/Entregable%20Parte%20I.docx).
@@ -107,6 +133,15 @@ con un **indicador** que permita medirlo; por ejemplo, «pedidos perdidos por se
 **Punto 6 · Producto esperado** (50 a 150 palabras). Qué se va a construir concretamente: el sistema
 de software, qué hace y quién lo usa.
 
+
+#### Antes de entregar el avance 2
+
+- [ ] La delimitación tiene entre 150 y 300 palabras y aclara qué se incluye y qué queda fuera.
+- [ ] Hay un objetivo general y dos específicos SMART, coherentes con el diagnóstico.
+- [ ] El impacto esperado tiene entre 200 y 500 palabras e incluye al menos dos resultados con sus indicadores.
+- [ ] El producto esperado describe el software y sus usuarios en 50 a 150 palabras.
+- [ ] Los puntos 3 a 6 están en el formato oficial y se leen correctamente en el PDF.
+
 ### Elevator Pitch · martes 27 de octubre
 
 - **Formato para completar:** [Presentación Elevator Pitch (PowerPoint)](../docs/aula-virtual/formatos/Formato%20Presentaci%C3%B3n%20Elevator%20Pitch.pptx).
@@ -123,6 +158,13 @@ Una presentación oral del proyecto:
   aplican, a través de qué producto o servicio, y cómo contactarlos.
 
 Su evaluación forma parte de la nota del Entregable I.
+
+
+#### Antes de presentar el pitch
+
+- [ ] El guion comienza con un gancho e incluye al menos cinco de los seis elementos indicados.
+- [ ] Todos los integrantes tienen contenido que exponer y el ensayo dura como máximo 90 segundos.
+- [ ] El guion final coincide en el formato del pitch y en el punto 10 de la propuesta.
 
 ### Entregable I completo · miércoles 28 de octubre
 
@@ -143,6 +185,16 @@ Los puntos 1 a 6 **corregidos según la retroalimentación**, más:
   presentación del pitch.
 
 ---
+
+
+#### Antes de entregar el Entregable I completo
+
+- [ ] El Word conserva los diez puntos y los puntos 1 a 6 incorporan las correcciones recibidas.
+- [ ] El presupuesto indica recursos, cantidades y precios.
+- [ ] La Gantt incluye actividades y duración en semanas; se adjunta aparte en la planilla oficial.
+- [ ] Hay un responsable por actividad y están definidos los roles del equipo.
+- [ ] El punto 10 contiene el guion final y está completado el formato del pitch.
+- [ ] El PDF completo y los archivos adjuntos corresponden a la misma versión del proyecto.
 
 ## 3. Entregable II · el valor del proyecto
 
@@ -173,6 +225,13 @@ Además, la pauta revisa que el Canvas muestre con claridad la **ventaja competi
 propuesta y su alcance en el mercado o en el entorno donde tiene impacto. Es una plantilla breve:
 solo lo relevante de cada bloque, dentro del espacio del formato.
 
+
+#### Antes de entregar el Canvas
+
+- [ ] Están completos los nueve bloques del formato oficial.
+- [ ] La propuesta de valor y la ventaja competitiva corresponden al software del proyecto.
+- [ ] El contenido es breve, cabe en la plantilla y se lee en el PDF exportado.
+
 ### Entregable II completo · miércoles 25 de noviembre
 
 - **Formatos para completar:** [Canvas (PowerPoint)](../docs/aula-virtual/formatos/Formato%20Canvas.pptx) · [Cadena de valor (Word)](../docs/aula-virtual/formatos/Formato%20Cadena%20de%20Valor.docx).
@@ -196,6 +255,15 @@ Se entrega:
   (comprimido en ZIP si el aula no lo acepta) y, cuando se pueda, con una copia en PDF.
 
 ---
+
+
+#### Antes de entregar el Entregable II completo
+
+- [ ] El Canvas incorpora la retroalimentación recibida.
+- [ ] La cadena de valor incluye las nueve actividades, distingue primarias y de apoyo y es coherente con la propuesta de valor.
+- [ ] Canvas y cadena de valor están exportados a PDF desde los formatos oficiales.
+- [ ] El avance del sistema y su evidencia están en su carpeta, en los formatos propios de los archivos.
+- [ ] La evidencia muestra lo que funciona y distingue las pruebas del equipo de la validación con la organización.
 
 ## 4. Entregable III · el portafolio final · miércoles 2 de diciembre
 
@@ -229,14 +297,19 @@ de avance y pruebas del sistema. Se distinguen los procesos supuestos de los obs
 pruebas del equipo de la validación con usuarios de la organización. Los pendientes de validación
 se declaran; no impiden entregar el portafolio.
 
-Junto con el portafolio, cada estudiante responde **tres cuestionarios obligatorios** de la carrera:
-autoevaluación de competencias digitales, autoevaluación de habilidades sociales y personales, y
-encuesta de madurez en innovación. Responderlos es parte de la nota del portafolio.
-
 El portafolio recibe retroalimentación antes del examen, para usarla en la preparación de la
 presentación.
 
 ---
+
+
+#### Antes de entregar el portafolio
+
+- [ ] Están las carpetas del producto del proyecto y de los Entregables I y II.
+- [ ] Propuesta, Gantt, Canvas y cadena de valor están en PDF y en sus versiones finales corregidas.
+- [ ] El sistema y sus evidencias corresponden a lo que describe la propuesta.
+- [ ] Se incluyen las evidencias del trabajo realizado y se identifican los pendientes de validación.
+- [ ] Los archivos se abren y cada integrante dispone del mismo portafolio completo para subir.
 
 ## 5. Examen final · miércoles 9 de diciembre
 
@@ -292,7 +365,52 @@ de recalificación**, con las mismas condiciones e incorporando las mejoras indi
 
 ---
 
+
+### Antes de presentar el examen
+
+- [ ] La presentación utiliza el formato oficial, con siete láminas en el orden indicado.
+- [ ] El sistema tiene evidencia de funcionamiento y coincide con los objetivos y el alcance presentados.
+- [ ] El ensayo respeta los 15 minutos y quienes exponen presentan contenido real.
+- [ ] El equipo prepara respuestas fundamentadas a las tres preguntas indicadas.
+- [ ] El PowerPoint terminado se abre correctamente y cada integrante sube su copia al aula.
+
 ## Lo que vale para todas las entregas
+
+### Qué se edita y qué se sube
+
+| Pieza | Archivo que conserva el equipo para editar | Archivo que se entrega |
+| --- | --- | --- |
+| Entregable I, avances 1 y 2 | Word oficial (.docx), continuado entre avances | PDF con los puntos correspondientes al avance |
+| Entregable I completo | El mismo Word con los diez puntos corregidos | PDF completo |
+| Carta Gantt del Entregable I | Planilla oficial Excel (.xlsx) | Anexo aparte en la planilla oficial; en el portafolio se incluye su versión final en PDF |
+| Guion del Elevator Pitch | Formato del pitch (.pptx) y punto 10 del Word | Guion en el PDF de la propuesta y formato del pitch completado, exportado a PDF; la exposición es presencial |
+| Canvas | Formato Canvas (.pptx) | PDF del avance; PDF corregido en el Entregable II completo y en el portafolio |
+| Cadena de valor | Formato Cadena de Valor (.docx) | PDF en el Entregable II completo y en el portafolio |
+| Sistema y evidencias | Código y archivos originales del producto | Archivos en sus formatos propios; ZIP si el aula no admite el tipo de archivo. Copia PDF cuando sea posible |
+| Resumen Ejecutivo del examen | Presentación oficial completada (.pptx) | PowerPoint terminado (.pptx) |
+
+### Una versión común para el equipo
+
+Se recomienda mantener una copia de trabajo compartida y acordar quién integra los cambios antes
+de cada entrega. Después de la revisión, todos descargan la misma versión aprobada por el equipo.
+**Cada integrante sube su propia copia al aula virtual**; que una persona haya subido no reemplaza
+la entrega de las demás.
+
+Para reconocer los archivos, pueden usar nombres como `Equipo-03-Entregable-I-Avance-1.pdf`,
+`Equipo-03-Carta-Gantt.xlsx` o `Equipo-03-Canvas.pdf`. Son ejemplos de organización, no una
+exigencia adicional de evaluación. Conserven el editable y las copias de los cortes anteriores.
+
+### Comprobación de la carga
+
+1. Exporta o guarda cada pieza en el formato que corresponde y abre el archivo resultante.
+2. Revisa que estén todas las páginas o láminas, que las tablas sean legibles y que no haya texto cortado.
+3. Comprueba que cada archivo no supere los 30 MB. Si necesitas ZIP, comprueba también su tamaño:
+   comprimir no garantiza que quede bajo el límite. Si sigue siendo mayor, reduce el peso de las
+   imágenes o videos, o distribuye los archivos en varios ZIP de hasta 30 MB.
+4. Entra en la actividad que corresponde a esa entrega en el aula virtual y adjunta los archivos.
+5. Verifica que la entrega quedó enviada o registrada; si el aula muestra un comprobante, consérvalo.
+
+### Reglas comunes
 
 - **Formato oficial.** Cada pieza tiene su formato; se usa ese y no otro.
 - **Entrega en el aula virtual.** En PDF salvo que se indique otro formato. **Cada integrante sube

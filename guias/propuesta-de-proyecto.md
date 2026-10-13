@@ -38,6 +38,39 @@ lo desarrollado con sus evidencias y pendientes de validación declarados.
 
 ## 1. El Entregable I: el documento de la propuesta
 
+### Ejemplo: datos y supuestos en el primer avance
+
+Estos fragmentos muestran cómo redactar el diagnóstico y la fundamentación de la ferretería.
+Son ilustrativos; la entrega del equipo desarrolla las cuatro preguntas del diagnóstico y respeta
+las extensiones del formato oficial.
+
+| Elemento | Cómo se presenta en la propuesta |
+| --- | --- |
+| Información del caso | «El caso ilustrativo describe pedidos recibidos por WhatsApp y anotados en un cuaderno». Se atribuye al caso, no a una entrevista |
+| Supuesto para diseñar | «Para una primera versión se supone que una persona registra los pedidos en el mesón». Se justifica porque permite comenzar con un flujo de registro sencillo |
+| Pregunta pendiente | «Falta confirmar cuántas personas registran pedidos y si necesitan permisos distintos». Si se habilita contacto, se contrasta con la organización |
+| Dato de prueba | «Se utilizan cuatro pedidos ficticios para probar el registro y los cambios de estado». Sirven para probar el software, no para medir la actividad de la ferretería |
+| Fuente secundaria | Se cita una publicación realmente consultada, con autor o institución, título, fecha y enlace, explicando qué aporta al análisis. No se inventa una fuente para completar el formato |
+
+**Fragmento del diagnóstico:** «Según el caso ilustrativo, los pedidos se reciben por WhatsApp y
+se registran en un cuaderno. La necesidad descrita es poder encontrarlos y seguir su preparación.
+Para diseñar el primer flujo se supone que una persona registra cada pedido. Este supuesto permite
+definir una pantalla de ingreso, pero falta confirmar cuántas personas participan y si necesitan
+permisos distintos. El sistema se probará inicialmente con datos ficticios identificados como tales».
+
+**Fragmento de la fundamentación:** «Abordar esta necesidad permitiría reunir el registro y el
+seguimiento de pedidos en un mismo sistema. La primera versión se concentrará en registrar pedidos
+y consultar su estado. Se puede comprobar ese funcionamiento creando un pedido de prueba,
+recargando la aplicación y verificando que el pedido y su estado se conservan. La reducción de
+pedidos perdidos sigue siendo un impacto esperado: todavía no hay una medición en la organización
+que permita afirmar que se consiguió».
+
+Para completar el avance, agrega el análisis del entorno, beneficiarios y normativa, el FODA y las
+fuentes consultadas. En el FODA también se distinguen las condiciones descritas por el caso de
+las que el equipo supone. El [mapa del módulo](mapa-del-modulo.md) indica qué revisar antes de subir.
+
+### Formato y puntos de la propuesta
+
 El **[formato Entregable Parte I (Word)](../docs/aula-virtual/formatos/Entregable%20Parte%20I.docx)** tiene diez puntos y se completa en tres avances.
 El punto 8 se trabaja en el **[Anexo Carta Gantt (Excel)](../docs/aula-virtual/formatos/Anexo%20Carta%20Gantt.xlsx)**. Para el punto 10 se usan
 el **[formato del Elevator Pitch (PowerPoint)](../docs/aula-virtual/formatos/Formato%20Presentaci%C3%B3n%20Elevator%20Pitch.pptx)** y su **[instructivo (PDF)](../docs/aula-virtual/instructivos/Instructivo%20Elevator%20Pitch.pdf)**.
