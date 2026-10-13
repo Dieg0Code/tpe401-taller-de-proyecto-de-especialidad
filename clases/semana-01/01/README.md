@@ -200,7 +200,7 @@ La propuesta tiene un formato oficial. Sus partes, en orden, y la etapa que docu
 | Lienzo Canvas | El proyecto visto como negocio: a quién sirve, qué valor entrega, qué cuesta | Diseño | Para quién es, por qué canal llega, cuánto cuesta mantenerlo |
 | Cadena de valor | Las actividades con que el equipo produce y entrega ese valor | Construcción y puesta en marcha | Recibir requerimientos, programar y probar, instalar, capacitar |
 
-Todos estos términos se explican, con más ejemplos, en el **Vocabulario del módulo**, y cada parte
+Todos estos términos se explican, con más ejemplos, en el **[Vocabulario del módulo](../../../guias/vocabulario.md)**, y cada parte
 se trabaja en detalle en la sesión que le corresponde. Lo que importa hoy es el mapa: la propuesta no
 es un trámite que acompaña al software, sino **el mismo desarrollo contado por escrito**.
 
@@ -254,6 +254,10 @@ hasta 30 MB; si pesa más, se comprime en un archivo ZIP.
 
 ### 2.2 El calendario
 
+Los **[documentos para las entregas](../../../docs/aula-virtual/README.md)** reúnen las plantillas, instructivos y pautas.
+El **[mapa del módulo](../../../guias/mapa-del-modulo.md)** enlaza los archivos junto a cada entrega.
+Descarga el formato editable correspondiente y trabaja sobre una copia.
+
 | Fecha | Entrega | Qué debe contener | ¿Lleva nota? |
 | --- | --- | --- | --- |
 | Miércoles 14 de octubre | Entregable I, avance 1 | El diagnóstico y la fundamentación | No |
@@ -268,9 +272,11 @@ hasta 30 MB; si pesa más, se comprime en un archivo ZIP.
 No hay sesiones el lunes 12 de octubre ni el martes 8 de diciembre, que son feriados.
 
 El detalle de cada entrega —la extensión de cada punto, los formatos oficiales y lo que pide cada
-pregunta— está en el **cronograma** y en la guía **La propuesta de proyecto**.
+pregunta— está en el **[cronograma](../../../cronograma/README.md)** y en la guía **[La propuesta de proyecto](../../../guias/propuesta-de-proyecto.md)**.
 
 ### 2.3 El Elevator Pitch
+
+Usa el **[formato del Elevator Pitch (PowerPoint)](../../../docs/aula-virtual/formatos/Formato%20Presentaci%C3%B3n%20Elevator%20Pitch.pptx)** y consulta su **[instructivo (PDF)](../../../docs/aula-virtual/instructivos/Instructivo%20Elevator%20Pitch.pdf)**.
 
 El **Elevator Pitch** es una presentación oral de **90 segundos como máximo** que explica el
 proyecto a alguien que no lo conoce y lo convence de que vale la pena. El nombre viene de la idea de
@@ -282,6 +288,8 @@ tienen, qué herramientas o soluciones aplican, a través de qué producto o ser
 contactarlos. Empieza con un **gancho**: una frase pensada para captar la atención de inmediato.
 
 ### 2.4 El portafolio
+
+Consulta el **[instructivo de organización y entrega del portafolio (PDF)](../../../docs/aula-virtual/instructivos/Instructivo%20Organizaci%C3%B3n%20y%20Entrega%20del%20Portafolio.pdf)**.
 
 El **portafolio** es la entrega final de todo el proyecto. Reúne tres cosas:
 
@@ -300,6 +308,8 @@ El portafolio se entrega una semana antes del examen para que reciba retroalimen
 alcance a usarla en la preparación de su presentación.
 
 ### 2.5 El examen final
+
+Usa el **[formato Resumen Ejecutivo (PowerPoint)](../../../docs/aula-virtual/formatos/Formato%20Resumen%20Ejecutivo.pptx)** y consulta el **[instructivo de elaboración y presentación (PDF)](../../../docs/aula-virtual/instructivos/Instructivo%20Elaboraci%C3%B3n%20y%20Presentaci%C3%B3n%20Resumen%20Ejecutivo.pdf)**.
 
 El examen se llama **Evaluación Integrada de Especialidad**: es el momento en que la institución
 mide si el estudiante desarrolló las competencias del perfil de egreso de su carrera. Su nota es el
@@ -355,7 +365,7 @@ Hay aspectos que se revisan en todas las entregas, no solo en una:
 - y que la propuesta sea **sostenible**: que pueda seguir funcionando en el tiempo sin depender del
   equipo que la creó.
 
-Las pautas de cada entrega están en la guía **Evaluación del módulo**.
+Las pautas de cada entrega están en la guía **[Evaluación del módulo](../../../guias/evaluacion.md)**.
 
 ---
 

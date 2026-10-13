@@ -33,6 +33,9 @@ Ejecutivo**.
 5. **[Vocabulario del módulo](guias/vocabulario.md)**: los términos que se usan, cada uno con un
    ejemplo.
 
+6. **[Documentos para las entregas](docs/aula-virtual/README.md)**: descarga los formatos editables,
+   los instructivos y las pautas de cada entrega.
+
 El material de cada sesión se publica en [`clases/`](clases/), organizado por semana.
 
 ## Ejemplo interactivo

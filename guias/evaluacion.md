@@ -1,8 +1,8 @@
 # Evaluación del módulo
 
-Los términos que aparecen aquí se explican en el **Vocabulario del módulo**, y las partes de la
-propuesta, en la guía **La propuesta de proyecto**. Las fechas y el contenido de cada entrega están
-en el **Cronograma**, en la tabla «Calendario de entregas».
+Los términos que aparecen aquí se explican en el **[Vocabulario del módulo](vocabulario.md)**, y las partes de la
+propuesta, en la guía **[La propuesta de proyecto](propuesta-de-proyecto.md)**. Las fechas y el contenido de cada entrega están
+en el **[Cronograma](../cronograma/README.md)**, en la tabla «Calendario de entregas».
 
 ## Cómo funciona
 
@@ -36,6 +36,8 @@ llamados **indicadores**, y describe tres niveles de logro para cada uno.
 
 ### Los avances
 
+**[Consultar la pauta oficial (PDF)](../docs/aula-virtual/pautas/1.%20Pauta%20de%20Revisi%C3%B3n%20Avances%20Entregables%20I%20y%20II%20TPE401.pdf)**.
+
 Todos los avances se revisan con los mismos seis indicadores:
 
 1. Incluye todos los elementos que corresponden a esa parte de la propuesta.
@@ -47,6 +49,8 @@ Todos los avances se revisan con los mismos seis indicadores:
 6. La redacción y la ortografía permiten leerlo y entenderlo correctamente.
 
 ### Entregable I
+
+**[Consultar la pauta oficial (PDF)](../docs/aula-virtual/pautas/2.%20Pauta%20de%20Revisi%C3%B3n%20Entregable%20Unidad%20I%20TPE401.pdf)**.
 
 Tiene un indicador por cada uno de los diez puntos del documento. En el **Elevator Pitch** se
 evalúan tres aspectos:
@@ -60,11 +64,15 @@ evalúan tres aspectos:
 
 ### Entregable II
 
+**[Consultar la pauta oficial (PDF)](../docs/aula-virtual/pautas/3.%20Pauta%20de%20Revisi%C3%B3n%20Entregable%20Unidad%20II%20TPE401.pdf)**.
+
 Se evalúan el Lienzo Canvas y la cadena de valor: que tengan sus nueve componentes completos y en
 el formato oficial, y que describan con claridad la **ventaja competitiva** del proyecto y su
 alcance.
 
 ### Portafolio
+
+**[Consultar la pauta oficial (PDF)](../docs/aula-virtual/pautas/4.%20Pauta%20de%20Revisi%C3%B3n%20Entregable%20Final%20TPE401.pdf)**.
 
 Se evalúan cinco indicadores:
 
@@ -105,7 +113,9 @@ el promedio de dos partes:
 
 ### La presentación
 
-Su formato y sus tiempos están en la guía **La propuesta de proyecto**. Se evalúan cinco
+**[Consultar la pauta oficial (PDF)](../docs/aula-virtual/pautas/5.%20Pauta%20de%20Revisi%C3%B3n%20de%20%20Resumen%20Ejecutivo%20%28Presentaci%C3%B3n%20EIE%29%20TPE401.pdf)**.
+
+Su formato y sus tiempos están en la guía **[La propuesta de proyecto](propuesta-de-proyecto.md)**. Se evalúan cinco
 indicadores:
 
 1. La solución técnica es innovadora y sostenible, y su valor se explica desde la especialidad.

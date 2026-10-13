@@ -2,7 +2,12 @@
 
 Todo lo que se espera en cada entrega del módulo, de la primera semana al examen final, en orden.
 Las extensiones y los requisitos salen de los formatos oficiales del módulo y de las pautas con que
-se revisa cada entrega. Los términos en negrita se explican en el **Vocabulario del módulo**.
+se revisa cada entrega. Los términos en negrita se explican en el **[Vocabulario del módulo](vocabulario.md)**.
+
+Descarga el formato editable y trabaja sobre una copia. Los instructivos y las pautas se consultan;
+no se completan. Los documentos originales se usan con las adaptaciones de este módulo: se puede
+avanzar y entregar con supuestos explícitos mientras no haya contacto con la organización.
+El **[índice de documentos](../docs/aula-virtual/README.md)** reúne todos los archivos.
 
 | Fecha | Entrega | ¿Lleva nota? |
 | --- | --- | --- |
@@ -19,6 +24,8 @@ se revisa cada entrega. Los términos en negrita se explican en el **Vocabulario
 ---
 
 ## 1. El equipo y el desafío · semana 1
+
+- **Orientaciones:** [Ficha de Actividad N.º 1 (PDF)](../docs/aula-virtual/actividades/Ficha%20de%20Actividad%20de%20Aprendizaje%20N%C2%BA1%20TPE401.pdf) · [Elección del desafío (PDF)](../docs/aula-virtual/actividades/actividad-trabajo-autonomo-elegir-desafio.pdf).
 
 Antes de escribir una línea de la propuesta, cada proyecto necesita:
 
@@ -41,10 +48,15 @@ los supuestos y actualiza la propuesta y el software en los aspectos que corresp
 
 ## 2. Entregable I · la propuesta escrita
 
+- **Formato para completar:** [Entregable Parte I (Word)](../docs/aula-virtual/formatos/Entregable%20Parte%20I.docx).
+- **Pautas:** [Revisión de avances (PDF)](../docs/aula-virtual/pautas/1.%20Pauta%20de%20Revisi%C3%B3n%20Avances%20Entregables%20I%20y%20II%20TPE401.pdf) · [Entregable I completo (PDF)](../docs/aula-virtual/pautas/2.%20Pauta%20de%20Revisi%C3%B3n%20Entregable%20Unidad%20I%20TPE401.pdf).
+
 Un documento de diez puntos, en el formato oficial «Entregable Parte I», que se completa en tres
 avances. Su versión completa es la **nota de la Unidad 1**.
 
 ### Avance 1 · miércoles 14 de octubre
+
+- **Archivo para trabajar:** [Entregable Parte I (Word): puntos 1 y 2](../docs/aula-virtual/formatos/Entregable%20Parte%20I.docx).
 
 **Punto 1 · Diagnóstico** (500 a 700 palabras). Responde cuatro preguntas, y la pauta cuenta cuántas
 se responden de forma completa y correcta:
@@ -79,6 +91,9 @@ vista de quien lo va a usar.
 
 ### Avance 2 · miércoles 21 de octubre
 
+- **Archivo para trabajar:** [Entregable Parte I (Word): puntos 3 a 6](../docs/aula-virtual/formatos/Entregable%20Parte%20I.docx).
+- **Orientaciones:** [Actividad del avance 2 (PDF)](../docs/aula-virtual/actividades/entregable-parte-1-avance-2.pdf).
+
 **Punto 3 · Definición y delimitación del desafío** (150 a 300 palabras). Qué parte del desafío se
 resuelve, en qué grado, y qué partes quedan fuera del proyecto.
 
@@ -94,6 +109,10 @@ de software, qué hace y quién lo usa.
 
 ### Elevator Pitch · martes 27 de octubre
 
+- **Formato para completar:** [Presentación Elevator Pitch (PowerPoint)](../docs/aula-virtual/formatos/Formato%20Presentaci%C3%B3n%20Elevator%20Pitch.pptx).
+- **Instructivo:** [Elaboración del pitch (PDF)](../docs/aula-virtual/instructivos/Instructivo%20Elevator%20Pitch.pdf).
+- **Pauta:** [Entregable I (PDF)](../docs/aula-virtual/pautas/2.%20Pauta%20de%20Revisi%C3%B3n%20Entregable%20Unidad%20I%20TPE401.pdf).
+
 Una presentación oral del proyecto:
 
 - de **90 segundos como máximo**, en la que **exponen todos los integrantes**;
@@ -106,6 +125,9 @@ Una presentación oral del proyecto:
 Su evaluación forma parte de la nota del Entregable I.
 
 ### Entregable I completo · miércoles 28 de octubre
+
+- **Archivos para trabajar:** [Entregable Parte I (Word)](../docs/aula-virtual/formatos/Entregable%20Parte%20I.docx) · [Anexo Carta Gantt (Excel)](../docs/aula-virtual/formatos/Anexo%20Carta%20Gantt.xlsx) · [Elevator Pitch (PowerPoint)](../docs/aula-virtual/formatos/Formato%20Presentaci%C3%B3n%20Elevator%20Pitch.pptx).
+- **Orientaciones:** [Actividad del avance 3 (PDF)](../docs/aula-virtual/actividades/entregable-parte-1-avance-3.pdf).
 
 Los puntos 1 a 6 **corregidos según la retroalimentación**, más:
 
@@ -128,6 +150,10 @@ Su versión completa es la **nota de la Unidad 2**.
 
 ### Avance 1 · miércoles 11 de noviembre: Lienzo Canvas
 
+- **Formato para completar:** [Lienzo Canvas (PowerPoint)](../docs/aula-virtual/formatos/Formato%20Canvas.pptx).
+- **Instructivo:** [Elaboración del Canvas y la cadena de valor (PDF)](../docs/aula-virtual/instructivos/Instructivo%20Elaboraci%C3%B3n%20Lienzo%20Canvas%20y%20Cadena%20de%20Valor.pdf).
+- **Pauta:** [Revisión de avances (PDF)](../docs/aula-virtual/pautas/1.%20Pauta%20de%20Revisi%C3%B3n%20Avances%20Entregables%20I%20y%20II%20TPE401.pdf).
+
 Un **Lienzo Canvas** por proyecto, en el formato oficial, entregado en PDF. La pauta exige los
 **nueve bloques** completos:
 
@@ -149,6 +175,10 @@ solo lo relevante de cada bloque, dentro del espacio del formato.
 
 ### Entregable II completo · miércoles 25 de noviembre
 
+- **Formatos para completar:** [Canvas (PowerPoint)](../docs/aula-virtual/formatos/Formato%20Canvas.pptx) · [Cadena de valor (Word)](../docs/aula-virtual/formatos/Formato%20Cadena%20de%20Valor.docx).
+- **Instructivos:** [Elaboración del Canvas y la cadena (PDF)](../docs/aula-virtual/instructivos/Instructivo%20Elaboraci%C3%B3n%20Lienzo%20Canvas%20y%20Cadena%20de%20Valor.pdf) · [Organización del Entregable II (PDF)](../docs/aula-virtual/instructivos/Instructivo%20Organizaci%C3%B3n%20Entregable%20II.pdf).
+- **Pauta:** [Entregable II completo (PDF)](../docs/aula-virtual/pautas/3.%20Pauta%20de%20Revisi%C3%B3n%20Entregable%20Unidad%20II%20TPE401.pdf).
+
 Se entrega:
 
 - **El Canvas corregido** según la retroalimentación.
@@ -168,6 +198,9 @@ Se entrega:
 ---
 
 ## 4. Entregable III · el portafolio final · miércoles 2 de diciembre
+
+- **Instructivo:** [Organización y entrega del portafolio (PDF)](../docs/aula-virtual/instructivos/Instructivo%20Organizaci%C3%B3n%20y%20Entrega%20del%20Portafolio.pdf).
+- **Pauta:** [Portafolio final (PDF)](../docs/aula-virtual/pautas/4.%20Pauta%20de%20Revisi%C3%B3n%20Entregable%20Final%20TPE401.pdf).
 
 La entrega final de todo el proyecto, en carpetas, en sus **versiones finales** con todas las
 correcciones de la retroalimentación:
@@ -206,6 +239,10 @@ presentación.
 ---
 
 ## 5. Examen final · miércoles 9 de diciembre
+
+- **Formato para completar:** [Resumen Ejecutivo (PowerPoint)](../docs/aula-virtual/formatos/Formato%20Resumen%20Ejecutivo.pptx).
+- **Instructivo:** [Elaboración y presentación del Resumen Ejecutivo (PDF)](../docs/aula-virtual/instructivos/Instructivo%20Elaboraci%C3%B3n%20y%20Presentaci%C3%B3n%20Resumen%20Ejecutivo.pdf).
+- **Pauta:** [Presentación EIE (PDF)](../docs/aula-virtual/pautas/5.%20Pauta%20de%20Revisi%C3%B3n%20de%20%20Resumen%20Ejecutivo%20%28Presentaci%C3%B3n%20EIE%29%20TPE401.pdf).
 
 La **Evaluación Integrada de Especialidad**. Su nota es el promedio de dos partes: la presentación
 del Resumen Ejecutivo, que hace el equipo, y una escala de apreciación de las competencias del perfil

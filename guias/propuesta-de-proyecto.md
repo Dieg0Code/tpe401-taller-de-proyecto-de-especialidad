@@ -16,7 +16,7 @@ propuesta tiene que poder verse en el software, y al revés.
 La propuesta se construye por partes durante todo el módulo y se entrega completa al final, en el
 **portafolio**. Al cierre se resume en una presentación, el **Resumen Ejecutivo**, que es el examen.
 
-Los términos en negrita se explican en el **Vocabulario del módulo**.
+Los términos en negrita se explican en el **[Vocabulario del módulo](vocabulario.md)**.
 
 ### Cómo avanzar mientras faltan datos
 
@@ -38,7 +38,9 @@ lo desarrollado con sus evidencias y pendientes de validación declarados.
 
 ## 1. El Entregable I: el documento de la propuesta
 
-Es un documento Word, con un formato oficial, que tiene diez puntos. Se completa en tres avances.
+El **[formato Entregable Parte I (Word)](../docs/aula-virtual/formatos/Entregable%20Parte%20I.docx)** tiene diez puntos y se completa en tres avances.
+El punto 8 se trabaja en el **[Anexo Carta Gantt (Excel)](../docs/aula-virtual/formatos/Anexo%20Carta%20Gantt.xlsx)**. Para el punto 10 se usan
+el **[formato del Elevator Pitch (PowerPoint)](../docs/aula-virtual/formatos/Formato%20Presentaci%C3%B3n%20Elevator%20Pitch.pptx)** y su **[instructivo (PDF)](../docs/aula-virtual/instructivos/Instructivo%20Elevator%20Pitch.pdf)**.
 
 | Avance | Punto | Qué responde | Extensión | Etapa del desarrollo |
 | --- | --- | --- | --- | --- |
@@ -54,6 +56,9 @@ Es un documento Word, con un formato oficial, que tiene diez puntos. Se completa
 | 3 | 10. **Elevator Pitch** | El guion final del pitch | — | Comunicar el proyecto |
 
 ## 2. El Entregable II: el valor del proyecto
+
+Completa el **[formato Canvas (PowerPoint)](../docs/aula-virtual/formatos/Formato%20Canvas.pptx)** y el **[formato Cadena de Valor (Word)](../docs/aula-virtual/formatos/Formato%20Cadena%20de%20Valor.docx)**.
+Consulta el **[instructivo de elaboración (PDF)](../docs/aula-virtual/instructivos/Instructivo%20Elaboraci%C3%B3n%20Lienzo%20Canvas%20y%20Cadena%20de%20Valor.pdf)** y el de **[organización del Entregable II (PDF)](../docs/aula-virtual/instructivos/Instructivo%20Organizaci%C3%B3n%20Entregable%20II.pdf)**.
 
 | Avance | Pieza | Qué contiene | Etapa del desarrollo |
 | --- | --- | --- | --- |
@@ -80,6 +85,7 @@ entrega a la organización.
 
 ## 3. El portafolio: la propuesta completa
 
+Consulta el **[instructivo de organización y entrega del portafolio (PDF)](../docs/aula-virtual/instructivos/Instructivo%20Organizaci%C3%B3n%20y%20Entrega%20del%20Portafolio.pdf)**.
 Es la entrega final de todo lo anterior, en carpetas:
 
 - **Producto del proyecto**: el sistema y su evidencia. Por ejemplo, el código, un video que muestre
@@ -95,8 +101,10 @@ Es la entrega final de todo lo anterior, en carpetas:
 
 El **Resumen Ejecutivo** es la presentación con que el equipo expone su proyecto en el examen. Su
 propósito es captar en pocos minutos el interés de alguien que podría invertir en el proyecto o
-asociarse a él. Se arma en el formato PowerPoint oficial, que viene sin diseño: el equipo diseña el
+asociarse a él. Se arma en el **[formato Resumen Ejecutivo (PowerPoint)](../docs/aula-virtual/formatos/Formato%20Resumen%20Ejecutivo.pptx)**, que viene sin diseño: el equipo diseña el
 fondo, la tipografía y los elementos de cada lámina.
+
+Consulta el **[instructivo de elaboración y presentación (PDF)](../docs/aula-virtual/instructivos/Instructivo%20Elaboraci%C3%B3n%20y%20Presentaci%C3%B3n%20Resumen%20Ejecutivo.pdf)**.
 
 | Lámina | Contenido | Tiempo máximo |
 | --- | --- | --- |
